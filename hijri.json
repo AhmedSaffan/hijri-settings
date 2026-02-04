@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "default_offset": 0,
+
+  "regions": [
+    {
+      "id": "gulf",
+      "name": "Arabian Gulf",
+      "lat": [12, 32],
+      "lon": [34, 60],
+      "offset": 0
+    },
+    {
+      "id": "north_africa",
+      "name": "North Africa",
+      "lat": [20, 37],
+      "lon": [-17, 35],
+      "offset": -1
+    },
+    {
+      "id": "levant",
+      "name": "Levant",
+      "lat": [29, 38],
+      "lon": [34, 42],
+      "offset": 0
+    },
+    {
+      "id": "turkey",
+      "name": "Turkey",
+      "lat": [36, 42],
+      "lon": [26, 45],
+      "offset": 1
+    },
+    {
+      "id": "europe",
+      "name": "Europe",
+      "lat": [36, 71],
+      "lon": [-10, 40],
+      "offset": 1
+    },
+    {
+      "id": "russia",
+      "name": "Russia",
+      "lat": [45, 72],
+      "lon": [30, 180],
+      "offset": 1
+    },
+    {
+      "id": "central_asia",
+      "name": "Central Asia",
+      "lat": [35, 55],
+      "lon": [55, 90],
+      "offset": 1
+    },
+    {
+      "id": "south_asia",
+      "name": "South Asia",
+      "lat": [5, 30],
+      "lon": [60, 95],
+      "offset": 0
+    },
+    {
+      "id": "east_asia",
+      "name": "East Asia",
+      "lat": [20, 50],
+      "lon": [95, 145],
+      "offset": 1
+    },
+    {
+      "id": "australia",
+      "name": "Australia",
+      "lat": [-45, -10],
+      "lon": [110, 155],
+      "offset": 1
+    },
+    {
+      "id": "north_america",
+      "name": "North America",
+      "lat": [15, 72],
+      "lon": [-170, -50],
+      "offset": 1
+    },
+    {
+      "id": "south_america",
+      "name": "South America",
+      "lat": [-55, 15],
+      "lon": [-85, -35],
+      "offset": 1
+    }
+  ],
+
+  "notes": "Global Hijri regions selected automatically by latitude & longitude",
+  "updated_at": "2026-02-04"
+}
