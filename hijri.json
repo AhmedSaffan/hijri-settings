@@ -8,7 +8,7 @@
       "name": "Arabian Gulf",
       "lat": [12, 32],
       "lon": [34, 60],
-      "offset": -1
+      "offset": 1
     },
     {
       "id": "north_africa",
