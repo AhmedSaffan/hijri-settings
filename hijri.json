@@ -15,7 +15,7 @@
       "name": "North Africa",
       "lat": [20, 37],
       "lon": [-17, 35],
-      "offset": 0
+      "offset": -1
     },
     {
       "id": "levant",
@@ -29,28 +29,28 @@
       "name": "Turkey",
       "lat": [36, 42],
       "lon": [26, 45],
-      "offset": 1
+      "offset": 0
     },
     {
       "id": "europe",
       "name": "Europe",
       "lat": [36, 71],
       "lon": [-10, 40],
-      "offset": 1
+      "offset": 0
     },
     {
       "id": "russia",
       "name": "Russia",
       "lat": [45, 72],
       "lon": [30, 180],
-      "offset": 1
+      "offset": 0
     },
     {
       "id": "central_asia",
       "name": "Central Asia",
       "lat": [35, 55],
       "lon": [55, 90],
-      "offset": 1
+      "offset": 0
     },
     {
       "id": "south_asia",
@@ -64,28 +64,28 @@
       "name": "East Asia",
       "lat": [20, 50],
       "lon": [95, 145],
-      "offset": 1
+      "offset": 0
     },
     {
       "id": "australia",
       "name": "Australia",
       "lat": [-45, -10],
       "lon": [110, 155],
-      "offset": 1
+      "offset": 0
     },
     {
       "id": "north_america",
       "name": "North America",
       "lat": [15, 72],
       "lon": [-170, -50],
-      "offset": 1
+      "offset": 0
     },
     {
       "id": "south_america",
       "name": "South America",
       "lat": [-55, 15],
       "lon": [-85, -35],
-      "offset": 1
+      "offset": 0
     }
   ],
 
