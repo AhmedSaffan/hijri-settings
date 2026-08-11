@@ -1,0 +1,2265 @@
+[
+  {
+    "id": "h10",
+    "title": "Landscape Default",
+    "video_mode": "fill",
+    "max_width_percentage": 0.9,
+    "size": 10.5,
+
+    "layout_mobile": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.78, "h": 0.85 },
+        "down": { "v": 0.90, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#000000",
+        "up":   { "v": 0.04, "h": 0.23 },
+        "down": { "v": 0.15, "h": 0.10 }
+      },
+      "image_reader": {
+        "color": "#000000",
+        "loop": true,
+        "up":   { "v": 0.04, "h": 0.90 },
+        "down": { "v": 0.15, "h": 0.76 }
+      }
+    },
+    "layout_mobile_low": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.78, "h": 0.85 },
+        "down": { "v": 0.90, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#000000",
+        "up":   { "v": 0.01, "h": 0.17 },
+        "down": { "v": 0.15, "h": 0.01 }
+      },
+      "image_reader": {
+        "color": "#000000",
+        "loop": true,
+        "up":   { "v": 0.04, "h": 0.98 },
+        "down": { "v": 0.15, "h": 0.85 }
+      }
+    },
+
+    "layout_tablet": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.75, "h": 0.85 },
+        "down": { "v": 0.85, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#000000",
+        "up":   { "v": 0.08, "h": 0.98 },
+        "down": { "v": 0.15, "h": 0.83 }
+      },
+      "image_reader": {
+        "color": "#000000",
+        "loop": true,
+        "up":   { "v": 0.1, "h": 0.18 },
+        "down": { "v": 0.17, "h": 0.0 }
+      }
+    }
+  },
+
+  {
+    "id": "h20",
+    "title": "Landscape Wide 20",
+    "video_mode": "fill",
+    "max_width_percentage": 0.9,
+    "size": 1.4,
+
+    "layout_mobile": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.33, "h": 0.90 },
+        "down": { "v": 0.44, "h": 0.12 }
+      },
+      "image_sora": {
+        "color": "#000000",
+        "up":   { "v": 0.06, "h": 0.8 },
+        "down": { "v": 0.14, "h": 0.5 }
+      },
+      "image_reader": {
+        "color": "#000000",
+        "loop": true,
+        "up":   { "v": 0.18, "h": 0.80 },
+        "down": { "v": 0.30, "h": 0.5 }
+      }
+    },
+
+    "layout_tablet": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.33, "h": 0.92 },
+        "down": { "v": 0.44, "h": 0.08 }
+      },
+      "image_sora": {
+        "color": "#000000",
+        "up":   { "v": 0.05, "h": 0.85 },
+        "down": { "v": 0.13, "h": 0.51 }
+      },
+      "image_reader": {
+        "color": "#000000",
+        "up":   { "v": 0.16, "h": 0.85 },
+        "down": { "v": 0.27, "h": 0.51 }
+      }
+    }
+  },
+
+  {
+    "id": "h40",
+    "title": "Landscape Wide 40",
+    "video_mode": "fill",
+    "max_width_percentage": 0.9,
+    "size" : 20.3,
+
+    "layout_mobile": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.64, "h": 0.87 },
+        "down": { "v": 0.74, "h": 0.4050 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.88, "h": 0.41 },
+        "down": { "v": 0.95, "h": 0.325 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.85, "h": 0.62 },
+        "down": { "v": 0.98, "h": 0.46 }
+      }
+    },
+    "layout_mobile_low": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.64, "h": 0.87 },
+        "down": { "v": 0.74, "h": 0.4050 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.88, "h": 0.39 },
+        "down": { "v": 0.92, "h": 0.28 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.85, "h": 0.62 },
+        "down": { "v": 0.98, "h": 0.46 }
+      }
+    },
+    "layout_tablet": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.60, "h": 1.00 },
+        "down": { "v": 0.73, "h": 0.37 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.8, "h": 0.35 },
+        "down": { "v": 0.95, "h": 0.29 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.8, "h": 0.63 },
+        "down": { "v": 0.92, "h": 0.44 }
+      }
+    }
+  },
+
+  {
+    "id": "h60",
+    "title": "Horizontal 60",
+    "video_mode": "fill",
+    "max_width_percentage": 0.9,
+    "size": 10.4,
+
+    "layout_mobile":
+    {
+      "imgLine1": {
+        "color": "#000000",
+        "up": { "v": 0.56, "h": 0.86 },
+        "down": { "v": 0.88, "h": 0.15 }
+      },
+
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.0, "h": 0.86 },
+        "down": { "v": 0.09, "h": 0.61 }
+      },
+
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up": { "v": 0.0, "h": 0.4039 },
+        "down": { "v": 0.09, "h": 0.15 }
+      }
+    },
+
+    "layout_tablet": {
+      "imgLine1": {
+        "color": "#000000",
+        "up":   { "v": 0.60, "h": 0.990 },
+        "down": { "v": 0.8, "h": 0.01 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.03, "h": 0.93 },
+        "down": { "v": 0.1, "h": 0.674 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.035, "h": 0.35 },
+        "down": { "v": 0.1, "h": 0.05 }
+      }
+    }
+  },
+
+  {
+    "id": "h90",
+    "title": "Horizontal 90",
+    "video_mode": "fill",
+    "max_width_percentage": 0.9,
+    "size": 8.8,
+
+    "layout_mobile": {
+      "imgLine1": {
+        "color": "#000000",
+        "up":   { "v": 0.75, "h": 0.74 },
+        "down": { "v": 0.89, "h": 0.24 }
+      },
+      "image_sora": {
+        "color": "#000000",
+        "up":   { "v": 0.25, "h": 0.3 },
+        "down": { "v": 0.3, "h": 0.3 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.38, "h": 0.88 },
+        "down": { "v": 0.48, "h": 0.88 }
+      }
+    },
+
+    "layout_tablet": {
+      "imgLine1": {
+        "color": "#000000",
+        "up":   { "v": 0.7, "h": 0.83 },
+        "down": { "v": 0.87, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#000000",
+        "up":   { "v": 0.21, "h": 0.0 },
+        "down": { "v": 0.29, "h": 0.0 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.35, "h": 0.97 },
+        "down": { "v": 0.44, "h": 0.97 }
+      }
+    }
+  },
+
+
+  {
+    "id": "h29",
+    "title": "Landscape Default",
+    "video_mode": "fill",
+    "max_width_percentage": 0.87,
+
+    "layout_mobile": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.78, "h": 0.85 },
+        "down": { "v": 0.90, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.64, "h": 0.35 },
+        "down": { "v": 0.72, "h": 0.17 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.64, "h": 0.83 },
+        "down": { "v": 0.72, "h": 0.66 }
+      }
+    },
+
+    "layout_mobile_low": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.78, "h": 0.85 },
+        "down": { "v": 0.90, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.64, "h": 0.3 },
+        "down": { "v": 0.72, "h": 0.1 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.64, "h": 0.908 },
+        "down": { "v": 0.72, "h": 0.69 }
+      }
+    },
+
+    "layout_tablet": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.75, "h": 0.85 },
+        "down": { "v": 0.87, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.64, "h": 0.29 },
+        "down": { "v": 0.68, "h": 0.11 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.63, "h": 0.9 },
+        "down": { "v": 0.7, "h": 0.69 }
+      }
+    }
+  },
+
+  {
+    "id": "h31",
+    "title": "Landscape Default",
+    "video_mode": "fill",
+    "max_width_percentage": 0.87,
+
+    "layout_mobile": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.78, "h": 0.85 },
+        "down": { "v": 0.90, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.92, "h": 0.23 },
+        "down": { "v": 0.99, "h": 0.10 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.92, "h": 0.90 },
+        "down": { "v": 0.99, "h": 0.7 }
+      }
+    },
+
+    "layout_mobile_low": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.78, "h": 0.85 },
+        "down": { "v": 0.90, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.92, "h": 0.2 },
+        "down": { "v": 0.99, "h": 0.06 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.92, "h": 0.90 },
+        "down": { "v": 0.99, "h": 0.7 }
+      }
+    },
+
+    "layout_tablet": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.75, "h": 0.85 },
+        "down": { "v": 0.85, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.92, "h": 0.2 },
+        "down": { "v": 0.99, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.92, "h": 0.95 },
+        "down": { "v": 0.99, "h": 0.7 }
+      }
+    }
+  },
+
+  {
+    "id": "h32",
+    "title": "Landscape Default",
+    "video_mode": "fill",
+    "max_width_percentage": 0.87,
+
+    "layout_mobile": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.82, "h": 0.8 },
+        "down": { "v": 0.94, "h": 0.2 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.73, "h": 0.4 },
+        "down": { "v": 0.8, "h": 0.2 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.73, "h": 0.8 },
+        "down": { "v": 0.8, "h": 0.6 }
+      }
+    },
+    "layout_mobile_low": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.82, "h": 0.9 },
+        "down": { "v": 0.94, "h": 0.1 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.73, "h": 0.35 },
+        "down": { "v": 0.81, "h": 0.1 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.73, "h": 0.88 },
+        "down": { "v": 0.81, "h": 0.6 }
+      }
+    },
+
+    "layout_tablet": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.78, "h": 0.8 },
+        "down": { "v": 0.9, "h": 0.2 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.71, "h": 0.4 },
+        "down": { "v": 0.77, "h": 0.15 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.7, "h": 0.85 },
+        "down": { "v": 0.78, "h": 0.6 }
+      }
+    }
+  },
+
+
+  {
+    "id": "h33",
+    "title": "Landscape Default",
+    "video_mode": "fill",
+    "max_width_percentage": 0.87,
+
+    "layout_mobile": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.66, "h": 0.9 },
+        "down": { "v": 0.85, "h": 0.1 }
+      },
+      "image_sora": {
+        "color": "#000000",
+        "sep_image": true,
+        "up":   { "v": 0.01, "h": 0.74 },
+        "down": { "v": 0.3, "h": 0.61 }
+      },
+      "image_reader": {
+        "color": "#CD810A",
+        "loop": true,
+        "up":   { "v": 0.55, "h": 0.90 },
+        "down": { "v": 0.64, "h": 0.6 }
+      }
+    },
+
+
+    "layout_mobile_low": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.68, "h": 0.95 },
+        "down": { "v": 0.82, "h": 0.05 }
+      },
+      "image_sora": {
+        "color": "#000000",
+        "up":   { "v": 0.01, "h": 0.8 },
+        "down": { "v": 0.3, "h": 0.64 }
+      },
+      "image_reader": {
+        "color": "#CD810A",
+        "loop": true,
+        "up":   { "v": 0.54, "h": 0.90 },
+        "down": { "v": 0.64, "h": 0.62 }
+      }
+    },
+
+    "layout_tablet": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.65, "h": 0.9 },
+        "down": { "v": 0.82, "h": 0.1 }
+      },
+      "image_sora": {
+        "color": "#000000",
+        "sep_image": true,
+        "up":   { "v": 0.05, "h": 0.8 },
+        "down": { "v": 0.3, "h": 0.64 }
+      },
+      "image_reader": {
+        "color": "#CD810A",
+        "loop": true,
+        "up":   { "v": 0.55, "h": 0.90 },
+        "down": { "v": 0.64, "h": 0.6 }
+      }
+    }
+  },
+  {
+    "id": "h35",
+    "title": "Landscape Default",
+    "video_mode": "fill",
+    "size": 2,
+    "max_width_percentage": 0.87,
+
+    "layout_mobile": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.68, "h": 0.9 },
+        "down": { "v": 0.86, "h": 0.1 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.01, "h": 0.5 },
+        "down": { "v": 0.15, "h": 0.2 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.2, "h": 0.5 },
+        "down": { "v": 0.28, "h": 0.2 }
+      }
+    },
+
+    "layout_tablet": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.66, "h": 0.9 },
+        "down": { "v": 0.8, "h": 0.1 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.05, "h": 0.5 },
+        "down": { "v": 0.15, "h": 0.2 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.2, "h": 0.5 },
+        "down": { "v": 0.28, "h": 0.2 }
+      }
+    }
+  },
+  {
+    "id": "h200",
+    "title": "Landscape Default",
+    "video_mode": "fill",
+    "max_width_percentage": 0.87,
+
+    "layout_mobile": {
+      "imgLine1": {
+        "color": "#553D3F",
+        "up":   { "v": 0.78, "h": 0.85 },
+        "down": { "v": 0.90, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#553D3F",
+        "up":   { "v": 0.95, "h": 0.24 },
+        "down": { "v": 1, "h": 0.1 }
+      },
+      "image_reader": {
+        "color": "#553D3F",
+        "loop": true,
+        "up":   { "v": 0.95, "h": 0.90 },
+        "down": { "v": 1, "h": 0.79 }
+      }
+    },
+    "layout_mobile_low": {
+      "imgLine1": {
+        "color": "#553D3F",
+        "up":   { "v": 0.78, "h": 0.85 },
+        "down": { "v": 0.90, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#553D3F",
+        "up":   { "v": 0.95, "h": 0.16 },
+        "down": { "v": 1, "h": 0.01 }
+      },
+      "image_reader": {
+        "color": "#553D3F",
+        "loop": true,
+        "up":   { "v": 0.96, "h": 0.99 },
+        "down": { "v": 1, "h": 0.88 }
+      }
+    },
+
+    "layout_tablet":  {
+      "imgLine1": {
+        "color": "#553D3F",
+        "up":   { "v": 0.78, "h": 0.85 },
+        "down": { "v": 0.90, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#553D3F",
+        "up":   { "v": 0.9, "h": 0.13 },
+        "down": { "v": 0.94, "h": 0.01 }
+      },
+      "image_reader": {
+        "color": "#553D3F",
+        "loop": true,
+        "up":   { "v": 0.9, "h": 0.99 },
+        "down": { "v": 0.95, "h": 0.85 }
+      }
+    }
+  },
+  {
+    "id": "h490",
+    "title": "Landscape Default",
+    "video_mode": "fill",
+    "max_width_percentage": 0.87,
+
+    "layout_mobile": {
+      "imgLine1": {
+        "color": "#E09566",
+        "up":   { "v": 0.2, "h": 0.9 },
+        "down": { "v": 0.30, "h": 0.1 }
+      },
+      "image_sora": {
+        "color": "#E09566",
+        "up":   { "v": 0.55, "h": 0.25 },
+        "down": { "v": 0.7, "h": 0.1 }
+      },
+      "image_reader": {
+        "color": "#E09566",
+        "loop": true,
+        "up":   { "v": 0.55, "h": 0.9 },
+        "down": { "v": 0.7, "h": 0.7 }
+      }
+    },
+    "layout_mobile_low": {
+      "imgLine1": {
+        "color": "#E09566",
+        "up":   { "v": 0.2, "h": 0.9 },
+        "down": { "v": 0.30, "h": 0.1 }
+      },
+      "image_sora": {
+        "color": "#E09566",
+        "up":   { "v": 0.55, "h": 0.2 },
+        "down": { "v": 0.7, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#E09566",
+        "loop": true,
+        "up":   { "v": 0.55, "h": 0.99 },
+        "down": { "v": 0.7, "h": 0.75 }
+      }
+    },
+    "layout_tablet":  {
+      "imgLine1": {
+        "color": "#E09566",
+        "up":   { "v": 0.2, "h": 0.9 },
+        "down": { "v": 0.30, "h": 0.1 }
+      },
+      "image_sora": {
+        "color": "#E09566",
+        "up":   { "v": 0.58, "h": 0.2 },
+        "down": { "v": 0.66, "h": 0.02 }
+      },
+      "image_reader": {
+        "color": "#E09566",
+        "loop": true,
+        "up":   { "v": 0.55, "h": 0.98 },
+        "down": { "v": 0.7, "h": 0.77 }
+      }
+    }
+  },
+  {
+    "id": "h491",
+    "title": "Landscape Default",
+    "video_mode": "fill",
+    "max_width_percentage": 0.87,
+
+    "layout_mobile": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.8, "h": 0.85 },
+        "down": { "v": 0.96, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.3, "h": 0.27 },
+        "down": { "v": 0.4, "h": 0.15  }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.3, "h": 0.85 },
+        "down": { "v": 0.4, "h": 0.7 }
+      }
+    },
+    "layout_mobile_low": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.8, "h": 0.85  },
+        "down": { "v": 0.96, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.25, "h": 0.25 },
+        "down": { "v": 0.4, "h": 0.06 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.3, "h": 0.9 },
+        "down": { "v": 0.4, "h": 0.75 }
+      }
+    },
+
+    "layout_tablet": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.79, "h": 0.82  },
+        "down": { "v": 0.9, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.3, "h": 0.2 },
+        "down": { "v": 0.4, "h": 0.1 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.3, "h": 0.9 },
+        "down": { "v": 0.4, "h": 0.75 }
+      }
+    }
+  },
+
+
+  {
+    "id": "h117",
+    "title": "Landscape Default",
+    "video_mode": "fill",
+    "max_width_percentage": 0.87,
+    "size": 3.7,
+    "layout_mobile": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.67, "h": 0.85 },
+        "down": { "v": 0.8, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.25, "h": 0.88 },
+        "down": { "v": 0.45, "h": 0.65 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.9, "h": 0.85 },
+        "down": { "v": 0.95, "h": 0.6 }
+      }
+    },
+    "layout_mobile_low": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.67, "h": 0.85 },
+        "down": { "v": 0.8, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.25, "h": 0.88 },
+        "down": { "v": 0.45, "h": 0.65 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.9, "h": 0.85 },
+        "down": { "v": 0.95, "h": 0.6 }
+      }
+    },
+
+    "layout_tablet": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.67, "h": 0.85 },
+        "down": { "v": 0.8, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.25, "h": 0.88 },
+        "down": { "v": 0.45, "h": 0.65 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.9, "h": 0.85 },
+        "down": { "v": 0.95, "h": 0.6 }
+      }
+    }
+  },
+  {
+    "id": "h129",
+    "title": "Landscape big size",
+    "video_mode": "fill",
+    "max_width_percentage": 0.87,
+    "size": 5.7,
+    "layout_mobile": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.687, "h": 0.9 },
+        "down": { "v": 0.85, "h": 0.1 }
+      },
+      "image_sora": {
+        "color": "#000000",
+        "up":   { "v": 0.12, "h": 0.29 },
+        "down": { "v": 0.4, "h": 0.15 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.9, "h": 0.88 },
+        "down": { "v": 0.99, "h": 0.4 }
+      }
+    },
+    "layout_mobile_low": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.687, "h": 0.9 },
+        "down": { "v": 0.85, "h": 0.1 }
+      },
+      "image_sora": {
+        "color": "#000000",
+        "up":   { "v": 0.12, "h": 0.24 },
+        "down": { "v": 0.4, "h": 0.06 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.9, "h": 0.88 },
+        "down": { "v": 0.99, "h": 0.4 }
+      }
+    },
+
+    "layout_tablet": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.67, "h": 0.9 },
+        "down": { "v": 0.82, "h": 0.1 }
+      },
+      "image_sora": {
+        "color": "#000000",
+        "up":   { "v": 0.12, "h": 0.2 },
+        "down": { "v": 0.4, "h": 0.1 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.88, "h": 0.88 },
+        "down": { "v": 0.95, "h": 0.4 }
+      }
+    }
+  },
+  {
+    "id": "h143",
+    "title": "Landscape Default",
+    "video_mode": "fill",
+    "max_width_percentage": 0.87,
+    "size": 2.1,
+
+    "layout_mobile": {
+      "imgLine1": {
+        "color": "#000000",
+        "up":   { "v": 0.49, "h": 0.9 },
+        "down": { "v": 0.63, "h": 0.1 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.83, "h": 0.27 },
+        "down": { "v": 0.98, "h": 0.15 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.88, "h": 0.85 },
+        "down": { "v": 0.98, "h": 0.6 }
+      }
+    },
+    "layout_mobile_low":  {
+      "imgLine1": {
+        "color": "#000000",
+        "up":   { "v": 0.49, "h": 0.9 },
+        "down": { "v": 0.63, "h": 0.1 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.83, "h": 0.27 },
+        "down": { "v": 0.98, "h": 0.15 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.88, "h": 0.85 },
+        "down": { "v": 0.98, "h": 0.6 }
+      }
+    },
+
+    "layout_tablet":  {
+      "imgLine1": {
+        "color": "#000000",
+        "up":   { "v": 0.49, "h": 0.9 },
+        "down": { "v": 0.63, "h": 0.1 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.8, "h": 0.27 },
+        "down": { "v": 0.9, "h": 0.15 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.8, "h": 0.85 },
+        "down": { "v": 0.9, "h": 0.6 }
+      }
+    }
+  },
+  {
+    "id": "h153",
+    "title": "Landscape Default",
+    "video_mode": "fill",
+    "max_width_percentage": 0.87,
+    "size": 1.5,
+    "layout_mobile": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.65, "h": 0.88 },
+        "down": { "v": 0.8, "h": 0.1 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.3, "h": 0.3 },
+        "down": { "v": 0.4, "h": 0.2 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.88, "h": 0.3 },
+        "down": { "v": 0.974, "h": 0.12 }
+      }
+    },
+    "layout_mobile_low":  {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.65, "h": 0.88 },
+        "down": { "v": 0.8, "h": 0.1 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.3, "h": 0.23 },
+        "down": { "v": 0.4, "h": 0.12 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.88, "h": 0.26 },
+        "down": { "v": 0.974, "h": 0.01 }
+      }
+    },
+
+    "layout_tablet":  {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.65, "h": 0.88 },
+        "down": { "v": 0.79, "h": 0.1 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.3, "h": 0.3 },
+        "down": { "v": 0.4, "h": 0.1 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.88, "h": 0.25 },
+        "down": { "v": 0.974, "h": 0.01 }
+      }
+    }
+  },
+  {
+    "id": "h162",
+    "title": "Landscape Default",
+    "video_mode": "fill",
+    "max_width_percentage": 0.87,
+    "size": 1.9,
+    "layout_mobile": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.67, "h": 0.83 },
+        "down": { "v": 0.81, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.89, "h": 0.27 },
+        "down": { "v": 0.98, "h": 0.15 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.89, "h": 0.85 },
+        "down": { "v": 0.98, "h": 0.6 }
+      }
+    },
+    "layout_mobile_low":{
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.67, "h": 0.83 },
+        "down": { "v": 0.81, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.89, "h": 0.27 },
+        "down": { "v": 0.98, "h": 0.15 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.89, "h": 0.85 },
+        "down": { "v": 0.98, "h": 0.6 }
+      }
+    },
+
+    "layout_tablet": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.67, "h": 0.83 },
+        "down": { "v": 0.78, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.87, "h": 0.27 },
+        "down": { "v": 0.96, "h": 0.15 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.87, "h": 0.85 },
+        "down": { "v": 0.96, "h": 0.6 }
+      }
+    }
+  },
+  {
+    "id": "h163",
+    "title": "Landscape Default",
+    "video_mode": "fill",
+    "max_width_percentage": 0.87,
+    "size": 0.957,
+    "layout_mobile": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.78, "h": 0.75 },
+        "down": { "v": 0.9, "h": 0.25 }
+      },
+      "image_sora": {
+        "color": "#000000",
+        "up":   { "v": 0.3, "h": 0.4 },
+        "down": { "v": 0.4, "h": 0.2 }
+      },
+      "image_reader": {
+        "color": "#000000",
+        "loop": true,
+        "up":   { "v": 0.3, "h": 0.8 },
+        "down": { "v": 0.4, "h": 0.64 }
+      }
+    },
+    "layout_mobile_low":  {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.78, "h": 0.75 },
+        "down": { "v": 0.9, "h": 0.25 }
+      },
+      "image_sora": {
+        "color": "#000000",
+        "up":   { "v": 0.3, "h": 0.4 },
+        "down": { "v": 0.4, "h": 0.2 }
+      },
+      "image_reader": {
+        "color": "#000000",
+        "loop": true,
+        "up":   { "v": 0.3, "h": 0.8 },
+        "down": { "v": 0.4, "h": 0.64 }
+      }
+    },
+
+    "layout_tablet":  {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.75, "h": 0.75 },
+        "down": { "v": 0.87, "h": 0.25 }
+      },
+      "image_sora": {
+        "color": "#000000",
+        "up":   { "v": 0.3, "h": 0.4 },
+        "down": { "v": 0.4, "h": 0.2 }
+      },
+      "image_reader": {
+        "color": "#000000",
+        "loop": true,
+        "up":   { "v": 0.3, "h": 0.8 },
+        "down": { "v": 0.4, "h": 0.64 }
+      }
+    }
+  },
+  {
+    "id": "h165",
+    "title": "Landscape Default",
+    "video_mode": "fill",
+    "max_width_percentage": 0.87,
+    "size": 0.939,
+    "layout_mobile": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.8 , "h": 0.8 },
+        "down": { "v": 0.94, "h": 0.2 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.3, "h": 0.27 },
+        "down": { "v": 0.4, "h": 0.15 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.3, "h": 0.85 },
+        "down": { "v": 0.4, "h": 0.7 }
+      }
+    },
+    "layout_mobile_low": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.8 , "h": 0.8 },
+        "down": { "v": 0.94, "h": 0.2 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.3, "h": 0.27 },
+        "down": { "v": 0.4, "h": 0.15 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.3, "h": 0.85 },
+        "down": { "v": 0.4, "h": 0.7 }
+      }
+    },
+
+    "layout_tablet":  {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.8 , "h": 0.8 },
+        "down": { "v": 0.88, "h": 0.2 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.3, "h": 0.27 },
+        "down": { "v": 0.4, "h": 0.15 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.3, "h": 0.85 },
+        "down": { "v": 0.4, "h": 0.7 }
+      }
+    }
+  },
+  {
+    "id": "h173",
+    "title": "Landscape Default",
+    "video_mode": "fill",
+    "max_width_percentage": 0.87,
+    "size": 3.8,
+    "layout_mobile": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.7, "h": 0.85 },
+        "down": { "v": 0.82, "h": 0.15 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.9, "h": 0.3 },
+        "down": { "v": 0.98, "h": 0.15 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.9 ,"h": 0.85 },
+        "down": { "v": 0.98, "h": 0.6 }
+      }
+    },
+    "layout_mobile_low": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.7, "h": 0.85 },
+        "down": { "v": 0.82, "h": 0.15 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.9, "h": 0.3 },
+        "down": { "v": 0.98, "h": 0.15 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.9 ,"h": 0.85 },
+        "down": { "v": 0.98, "h": 0.6 }
+      }
+    },
+
+    "layout_tablet": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.7, "h": 0.85 },
+        "down": { "v": 0.82, "h": 0.15 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.88, "h": 0.3 },
+        "down": { "v": 0.96, "h": 0.15 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.88 ,"h": 0.85 },
+        "down": { "v": 0.96, "h": 0.6 }
+      }
+    }
+  },
+  {
+    "id": "h181",
+    "title": "Landscape Default",
+    "video_mode": "fill",
+    "max_width_percentage": 0.87,
+    "size": 3,
+    "layout_mobile": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.68, "h": 0.85 },
+        "down": { "v": 0.83, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.54, "h": 0.9 },
+        "down": { "v": 0.66, "h": 0.67 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.9, "h": 0.9 },
+        "down": { "v": 0.97, "h": 0.6 }
+      }
+    },
+    "layout_mobile_low": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.68, "h": 0.85 },
+        "down": { "v": 0.83, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.54, "h": 0.9 },
+        "down": { "v": 0.66, "h": 0.67 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.9, "h": 0.9 },
+        "down": { "v": 0.97, "h": 0.6 }
+      }
+    },
+
+    "layout_tablet": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.67, "h": 0.82 },
+        "down": { "v": 0.8, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.3, "h": 0.2 },
+        "down": { "v": 0.4, "h": 0.1 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.3, "h": 0.99 },
+        "down": { "v": 0.4, "h": 0.85 }
+      }
+    }
+  },
+  {
+    "id": "h189",
+    "title": "Landscape Default",
+    "video_mode": "fill",
+    "max_width_percentage": 0.87,
+    "size": 3.3,
+
+    "layout_mobile": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.63, "h": 0.8 },
+        "down": { "v": 0.78, "h": 0.2 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.1, "h": 0.86 },
+        "down": { "v": 0.5, "h": 0.67 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.9, "h": 0.86 },
+        "down": { "v": 0.97, "h": 0.56 }
+      }
+    },
+    "layout_mobile_low": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.63, "h": 0.8 },
+        "down": { "v": 0.78, "h": 0.2 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.1, "h": 0.86 },
+        "down": { "v": 0.5, "h": 0.67 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.9, "h": 0.86 },
+        "down": { "v": 0.97, "h": 0.56 }
+      }
+    },
+
+    "layout_tablet": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.63, "h": 0.8 },
+        "down": { "v": 0.76, "h": 0.2 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.1, "h": 0.86 },
+        "down": { "v": 0.5, "h": 0.67 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.85, "h": 0.86 },
+        "down": { "v": 0.95, "h": 0.56 }
+      }
+    }
+  },
+  {
+    "id": "h198",
+    "title": "Landscape Default",
+    "video_mode": "fill",
+    "max_width_percentage": 0.87,
+    "size": 3.4,
+
+    "layout_mobile": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.64, "h": 0.85 },
+        "down": { "v": 0.78, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.01, "h": 0.27 },
+        "down": { "v": 0.14, "h": 0.14 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.9, "h": 0.4 },
+        "down": { "v": 0.97, "h": 0.12 }
+      }
+    },
+    "layout_mobile_low":  {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.64, "h": 0.85 },
+        "down": { "v": 0.78, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.01, "h": 0.21 },
+        "down": { "v": 0.14, "h": 0.04 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.9, "h": 0.37 },
+        "down": { "v": 0.97, "h": 0.02 }
+      }
+    },
+
+    "layout_tablet":  {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.64, "h": 0.85 },
+        "down": { "v": 0.78, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.05, "h": 0.2 },
+        "down": { "v": 0.2, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.85, "h": 0.38 },
+        "down": { "v": 0.95, "h": 0.1 }
+      }
+    }
+  },
+  {
+    "id": "h210",
+    "title": "Landscape Default",
+    "video_mode": "fill",
+    "max_width_percentage": 0.87,
+    "size": 5.5,
+
+    "layout_mobile": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.5, "h": 0.85 },
+        "down": { "v": 0.63, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.74, "h": 0.3 },
+        "down": { "v": 0.86, "h": 0.1 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.74, "h": 0.9 },
+        "down": { "v": 0.85, "h": 0.6 }
+      }
+    },
+    "layout_mobile_low":{
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.5, "h": 0.85 },
+        "down": { "v": 0.63, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.74, "h": 0.3 },
+        "down": { "v": 0.86, "h": 0.1 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.74, "h": 0.9 },
+        "down": { "v": 0.85, "h": 0.6 }
+      }
+    },
+
+    "layout_tablet":{
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.5, "h": 0.85 },
+        "down": { "v": 0.63, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.7, "h": 0.3 },
+        "down": { "v": 0.82, "h": 0.1 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.7, "h": 0.9 },
+        "down": { "v": 0.82, "h": 0.6 }
+      }
+    }
+  },
+  {
+    "id": "h220",
+    "title": "Landscape Default",
+    "video_mode": "fill",
+    "max_width_percentage": 0.87,
+    "size": 4.8,
+
+    "layout_mobile": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.67, "h": 0.85 },
+        "down": { "v": 0.78, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.87, "h": 0.3 },
+        "down": { "v": 0.92, "h": 0.1 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.87, "h": 0.9 },
+        "down": { "v": 0.92, "h": 0.6 }
+      }
+    },
+    "layout_mobile_low":{
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.67, "h": 0.85 },
+        "down": { "v": 0.78, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.87, "h": 0.3 },
+        "down": { "v": 0.92, "h": 0.1 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.87, "h": 0.9 },
+        "down": { "v": 0.92, "h": 0.6 }
+      }
+    },
+
+    "layout_tablet":{
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.67, "h": 0.85 },
+        "down": { "v": 0.78, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.87, "h": 0.3 },
+        "down": { "v": 0.92, "h": 0.1 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.87, "h": 0.9 },
+        "down": { "v": 0.92, "h": 0.6 }
+      }
+    }
+  },
+  {
+    "id": "h255",
+    "title": "Landscape Default",
+    "video_mode": "fill",
+    "max_width_percentage": 0.87,
+    "size": 2.9,
+
+    "layout_mobile": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.74, "h": 0.85 },
+        "down": { "v": 0.86, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.0, "h": 0.9 },
+        "down": { "v": 0.2, "h": 0.75 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.93, "h": 0.34 },
+        "down": { "v": 0.99, "h": 0.1 }
+      }
+    },
+    "layout_mobile_low": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.74, "h": 0.85 },
+        "down": { "v": 0.86, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.02, "h": 0.93 },
+        "down": { "v": 0.2, "h": 0.78 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.94, "h": 0.28 },
+        "down": { "v": 0.99, "h": 0.01 }
+      }
+    },
+
+    "layout_tablet": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.74, "h": 0.85 },
+        "down": { "v": 0.84, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.08, "h": 0.9 },
+        "down": { "v": 0.2, "h": 0.75 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.9, "h": 0.3 },
+        "down": { "v": 0.95, "h": 0.01 }
+      }
+    }
+  },
+
+  {
+    "id": "h256",
+    "title": "Landscape Default",
+    "video_mode": "fill",
+    "max_width_percentage": 0.87,
+    "size": 2.4,
+
+    "layout_mobile": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.74, "h": 0.85 },
+        "down": { "v": 0.86, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.0, "h": 0.9 },
+        "down": { "v": 0.2, "h": 0.75 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.93, "h": 0.34 },
+        "down": { "v": 0.99, "h": 0.1 }
+      }
+    },
+    "layout_mobile_low": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.74, "h": 0.85 },
+        "down": { "v": 0.86, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.02, "h": 0.93 },
+        "down": { "v": 0.2, "h": 0.78 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.94, "h": 0.28 },
+        "down": { "v": 0.99, "h": 0.01 }
+      }
+    },
+
+    "layout_tablet": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.74, "h": 0.85 },
+        "down": { "v": 0.84, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.08, "h": 0.9 },
+        "down": { "v": 0.2, "h": 0.75 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.9, "h": 0.3 },
+        "down": { "v": 0.95, "h": 0.01 }
+      }
+    }
+  },
+  {
+    "id": "h257",
+    "title": "Landscape Default",
+    "video_mode": "fill",
+    "max_width_percentage": 0.87,
+    "size": 5.6,
+
+    "layout_mobile": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.74, "h": 0.85 },
+        "down": { "v": 0.86, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.0, "h": 0.9 },
+        "down": { "v": 0.2, "h": 0.75 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.93, "h": 0.34 },
+        "down": { "v": 0.99, "h": 0.1 }
+      }
+    },
+    "layout_mobile_low": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.74, "h": 0.85 },
+        "down": { "v": 0.86, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.02, "h": 0.93 },
+        "down": { "v": 0.2, "h": 0.78 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.94, "h": 0.28 },
+        "down": { "v": 0.99, "h": 0.01 }
+      }
+    },
+
+    "layout_tablet": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.74, "h": 0.85 },
+        "down": { "v": 0.84, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.08, "h": 0.9 },
+        "down": { "v": 0.2, "h": 0.75 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.9, "h": 0.3 },
+        "down": { "v": 0.95, "h": 0.01 }
+      }
+    }
+  },
+
+  {
+    "id": "h299",
+    "title": "Landscape Default",
+    "video_mode": "fill",
+    "max_width_percentage": 0.87,
+    "Size": 2.9,
+
+    "layout_mobile": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.7, "h": 0.85 },
+        "down": { "v": 0.83, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.54, "h": 0.9 },
+        "down": { "v": 0.66, "h": 0.67 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.9, "h": 0.9 },
+        "down": { "v": 0.97, "h": 0.6 }
+      }
+    },
+    "layout_mobile_low": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.7, "h": 0.85 },
+        "down": { "v": 0.83, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.54, "h": 0.9 },
+        "down": { "v": 0.66, "h": 0.67 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.9, "h": 0.9 },
+        "down": { "v": 0.97, "h": 0.6 }
+      }
+    },
+
+    "layout_tablet": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.7, "h": 0.85 },
+        "down": { "v": 0.83, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.54, "h": 0.9 },
+        "down": { "v": 0.66, "h": 0.67 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.9, "h": 0.9 },
+        "down": { "v": 0.97, "h": 0.6 }
+      }
+    }
+  },
+  {
+    "id": "h336",
+    "title": "Landscape Default",
+    "video_mode": "fill",
+    "max_width_percentage": 0.87,
+    "size": 3.8,
+
+    "layout_mobile": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.68, "h": 0.85 },
+        "down": { "v": 0.83, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.54, "h": 0.9 },
+        "down": { "v": 0.66, "h": 0.67 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.9, "h": 0.9 },
+        "down": { "v": 0.97, "h": 0.6 }
+      }
+    },
+    "layout_mobile_low": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.68, "h": 0.85 },
+        "down": { "v": 0.83, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.54, "h": 0.9 },
+        "down": { "v": 0.66, "h": 0.67 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.9, "h": 0.9 },
+        "down": { "v": 0.97, "h": 0.6 }
+      }
+    },
+
+    "layout_tablet": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.68, "h": 0.85 },
+        "down": { "v": 0.78, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.54, "h": 0.9 },
+        "down": { "v": 0.66, "h": 0.67 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.87, "h": 0.9 },
+        "down": { "v": 0.95, "h": 0.6 }
+      }
+    }
+  },
+  {
+    "id": "h337",
+    "title": "Landscape Default",
+    "video_mode": "fill",
+    "max_width_percentage": 0.87,
+    "size": 1.6,
+
+    "layout_mobile": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.68, "h": 0.8 },
+        "down": { "v": 0.83, "h": 0.07 }
+      },
+      "image_sora": {
+        "color": "#000000",
+        "up":   { "v": 0.54, "h": 0.85 },
+        "down": { "v": 0.66, "h": 0.6 }
+      },
+      "image_reader": {
+        "color": "#000000",
+        "loop": true,
+        "up":   { "v": 0.92, "h": 0.85 },
+        "down": { "v": 0.99, "h": 0.5 }
+      }
+    },
+    "layout_mobile_low": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.68, "h": 0.8 },
+        "down": { "v": 0.83, "h": 0.07 }
+      },
+      "image_sora": {
+        "color": "#000000",
+        "up":   { "v": 0.54, "h": 0.85 },
+        "down": { "v": 0.66, "h": 0.6 }
+      },
+      "image_reader": {
+        "color": "#000000",
+        "loop": true,
+        "up":   { "v": 0.92, "h": 0.85 },
+        "down": { "v": 0.99, "h": 0.5 }
+      }
+    },
+
+    "layout_tablet": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.7, "h": 0.8 },
+        "down": { "v": 0.8, "h": 0.07 }
+      },
+      "image_sora": {
+        "color": "#000000",
+        "up":   { "v": 0.5, "h": 0.85 },
+        "down": { "v": 0.6, "h": 0.6 }
+      },
+      "image_reader": {
+        "color": "#000000",
+        "loop": true,
+        "up":   { "v": 0.88, "h": 0.85 },
+        "down": { "v": 0.95, "h": 0.5 }
+      }
+    }
+  },
+  {
+    "id": "h338",
+    "title": "Landscape Default",
+    "video_mode": "fill",
+    "max_width_percentage": 0.87,
+    "size": 1.9,
+
+    "layout_mobile": {
+      "imgLine1": {
+        "color": "#66381D",
+        "up":   { "v": 0.83, "h": 0.85 },
+        "down": { "v": 0.92, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#66381D",
+        "up":   { "v": 0.54, "h": 0.82 },
+        "down": { "v": 0.66, "h": 0.56 }
+      },
+      "image_reader": {
+        "color": "#000000",
+        "loop": true,
+        "up":   { "v": 0.72, "h": 0.82 },
+        "down": { "v": 0.79, "h": 0.56 }
+      }
+    },
+    "layout_mobile_low": {
+      "imgLine1": {
+        "color": "#66381D",
+        "up":   { "v": 0.83, "h": 0.85 },
+        "down": { "v": 0.93, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#66381D",
+        "up":   { "v": 0.54, "h": 0.82 },
+        "down": { "v": 0.66, "h": 0.56 }
+      },
+      "image_reader": {
+        "color": "#000000",
+        "loop": true,
+        "up":   { "v": 0.72, "h": 0.82 },
+        "down": { "v": 0.79, "h": 0.56 }
+      }
+    },
+
+    "layout_tablet": {
+      "imgLine1": {
+        "color": "#66381D",
+        "up":   { "v": 0.78, "h": 0.85 },
+        "down": { "v": 0.9, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#66381D",
+        "up":   { "v": 0.54, "h": 0.82 },
+        "down": { "v": 0.66, "h": 0.56 }
+      },
+      "image_reader": {
+        "color": "#000000",
+        "loop": true,
+        "up":   { "v": 0.7, "h": 0.82 },
+        "down": { "v": 0.77, "h": 0.56 }
+      }
+    }
+  },
+  {
+    "id": "h480",
+    "title": "Landscape Default",
+    "video_mode": "fill",
+    "max_width_percentage": 0.87,
+    "size": 6.5,
+
+    "layout_mobile": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.7, "h": 0.85 },
+        "down": { "v": 0.8, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.44, "h": 0.81 },
+        "down": { "v": 0.5, "h": 0.7 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.35, "h": 0.82 },
+        "down": { "v": 0.42, "h": 0.7 }
+      }
+    },
+    "layout_mobile_low": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.68, "h": 0.85 },
+        "down": { "v": 0.83, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.44, "h": 0.89 },
+        "down": { "v": 0.52, "h": 0.75 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.34, "h": 0.9 },
+        "down": { "v": 0.42, "h": 0.75 }
+      }
+    },
+
+    "layout_tablet": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.67, "h": 0.85 },
+        "down": { "v": 0.78, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.45, "h": 0.89 },
+        "down": { "v": 0.51, "h": 0.76 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.34, "h": 0.89 },
+        "down": { "v": 0.44, "h": 0.75 }
+      }
+    }
+  },
+  {
+    "id": "h482",
+    "title": "Landscape Default",
+    "video_mode": "fill",
+    "max_width_percentage": 0.87,
+    "size": 3.1,
+
+    "layout_mobile": {
+      "imgLine1": {
+        "color": "#000000",
+        "up":   { "v": 0.46, "h": 0.83 },
+        "down": { "v": 0.58, "h": 0.15 }
+      },
+      "image_sora": {
+        "color": "#003735",
+        "up":   { "v": 0.23, "h": 0.35 },
+        "down": { "v": 0.32, "h": 0.18 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.8, "h": 0.4 },
+        "down": { "v": 0.9, "h": 0.18 }
+      }
+    },
+    "layout_mobile_low": {
+      "imgLine1": {
+        "color": "#000000",
+        "up":   { "v": 0.46, "h": 0.83 },
+        "down": { "v": 0.58, "h": 0.15 }
+      },
+      "image_sora": {
+        "color": "#003735",
+        "up":   { "v": 0.23, "h": 0.3 },
+        "down": { "v": 0.32, "h": 0.12 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.8, "h": 0.38 },
+        "down": { "v": 0.9, "h": 0.1 }
+      }
+    },
+
+    "layout_tablet": {
+      "imgLine1": {
+        "color": "#000000",
+        "up":   { "v": 0.46, "h": 0.83 },
+        "down": { "v": 0.58, "h": 0.15 }
+      },
+      "image_sora": {
+        "color": "#003735",
+        "up":   { "v": 0.25, "h": 0.3 },
+        "down": { "v": 0.35, "h": 0.1 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.78, "h": 0.4 },
+        "down": { "v": 0.86, "h": 0.1 }
+      }
+    }
+  },
+  {
+    "id": "h488",
+    "title": "Landscape Default",
+    "video_mode": "fill",
+    "max_width_percentage": 0.87,
+    "size": 2.7,
+
+    "layout_mobile": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.72, "h": 0.85 },
+        "down": { "v": 0.88, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.34, "h": 0.3 },
+        "down": { "v": 0.45, "h": 0.1 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.92, "h": 0.85 },
+        "down": { "v": 0.99, "h": 0.55 }
+      }
+    },
+    "layout_mobile_low":  {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.73, "h": 0.85 },
+        "down": { "v": 0.89, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.34, "h": 0.2 },
+        "down": { "v": 0.45, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.92, "h": 0.85 },
+        "down": { "v": 0.99, "h": 0.55 }
+      }
+    },
+
+    "layout_tablet":   {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.72, "h": 0.85 },
+        "down": { "v": 0.85, "h": 0.17 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.34, "h": 0.23 },
+        "down": { "v": 0.45, "h": 0.01 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "loop": true,
+        "up":   { "v": 0.9, "h": 0.85 },
+        "down": { "v": 0.95, "h": 0.55 }
+      }
+    }
+  },
+  {
+    "id": "h498",
+    "title": "Landscape Default",
+    "video_mode": "fill",
+    "max_width_percentage": 0.87,
+    "size": 6.3,
+
+    "layout_mobile": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.68, "h": 0.85 },
+        "down": { "v": 0.83, "h": 0.14 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.43, "h": 0.28 },
+        "down": { "v": 0.55, "h": 0.18 }
+      },
+      "image_reader": {
+        "color": "#853032",
+        "loop": true,
+        "up":   { "v": 0.9, "h": 0.9 },
+        "down": { "v": 0.97, "h": 0.6 }
+      }
+    },
+    "layout_mobile_low": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.68, "h": 0.85 },
+        "down": { "v": 0.83, "h": 0.14 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.43, "h": 0.22 },
+        "down": { "v": 0.55, "h": 0.1}
+      },
+      "image_reader": {
+        "color": "#853032",
+        "loop": true,
+        "up":   { "v": 0.9, "h": 0.9 },
+        "down": { "v": 0.97, "h": 0.6 }
+      }
+    },
+
+    "layout_tablet": {
+      "imgLine1": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.68, "h": 0.85 },
+        "down": { "v": 0.8, "h": 0.14 }
+      },
+      "image_sora": {
+        "color": "#FFFFFF",
+        "up":   { "v": 0.43, "h": 0.23 },
+        "down": { "v": 0.55, "h": 0.1 }
+      },
+      "image_reader": {
+        "color": "#853032",
+        "loop": true,
+        "up":   { "v": 0.85, "h": 0.9 },
+        "down": { "v": 0.94, "h": 0.6 }
+      }
+    }
+  }
+
+]

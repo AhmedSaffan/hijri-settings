@@ -1,0 +1,2412 @@
+[
+  {
+    "id": "night_31",
+    "title": "night_30",
+    "video_mode": "fill",
+    "ms_after_finish": 0,
+    "layout_mobile": {
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":"",
+
+        "up": { "v": 0.05, "h": 0.01 },
+        "down": { "v": 0.0, "h": 0.0 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.05,"h":0.95},
+        "down":{"v":0.2,"h":0.75}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#00000000",
+        "up": { "v": 0.3, "h": 0.7 },
+        "down": { "v": 0.5, "h": 0.3 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#00000000",
+        "up": { "v": 0.56, "h": 0.2 },
+        "down": { "v": 0.7, "h": 0.05 }
+      },
+      "end2": {
+        "color": "#ffffff", "background":"#00000000",
+        "up": { "v": 0.75, "h": 0.2 },
+        "down": { "v": 0.85, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":null,
+        "up": { "v": 0.15, "h": 0.95 },
+        "down": { "v": 0.2, "h": 0.3 }
+      }
+
+
+    },
+    "layout_tablet": {
+
+      "text_azkar": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.25, "h": 0.9 },
+        "down": { "v": 0.3, "h": 0.1 }
+      },
+      "topic": {
+        "color": "#305CDE",
+        "up": { "v": 0.14, "h": 0.65 },
+        "down": { "v": 0.45, "h": 0.35 }
+      },
+
+      "end": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "end2": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      }
+    }
+  },
+  {
+    "id": "night_40",
+    "title": "night_40",
+    "video_mode": "fill",
+    "ms_after_finish": 0,
+    "layout_mobile": {
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":"",
+
+        "up": { "v": 0.05, "h": 0.01 },
+        "down": { "v": 0.32, "h": 0.01 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.05,"h":0.95},
+        "down":{"v":0.2,"h":0.75}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#00000000",
+        "up": { "v": 0.3, "h": 0.7 },
+        "down": { "v": 0.5, "h": 0.3 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#00000000",
+        "up": { "v": 0.56, "h": 0.2 },
+        "down": { "v": 0.7, "h": 0.05 }
+      },
+      "end2": {
+        "color": "#ffffff", "background":"#00000000",
+        "up": { "v": 0.75, "h": 0.2 },
+        "down": { "v": 0.85, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":null,
+        "up": { "v": 0.15, "h": 0.95 },
+        "down": { "v": 0.2, "h": 0.3 }
+      }
+
+
+    },
+    "layout_tablet": {
+
+      "text_azkar": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.25, "h": 0.9 },
+        "down": { "v": 0.3, "h": 0.1 }
+      },
+      "topic": {
+        "color": "#305CDE",
+        "up": { "v": 0.14, "h": 0.65 },
+        "down": { "v": 0.45, "h": 0.35 }
+      },
+
+      "end": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "end2": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      }
+    }
+  },
+  {
+    "id": "night_50",
+    "title": "night_50",
+    "video_mode": "fill",
+    "ms_after_finish": 0,
+    "layout_mobile": {
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":"",
+
+        "up": { "v": 0.05, "h": 0.01 },
+        "down": { "v": 0.32, "h": 0.01 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.05,"h":0.95},
+        "down":{"v":0.2,"h":0.75}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#00000000",
+        "up": { "v": 0.3, "h": 0.97 },
+        "down": { "v": 0.5, "h": 0.4 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#00000000",
+        "up": { "v": 0.56, "h": 0.2 },
+        "down": { "v": 0.7, "h": 0.05 }
+      },
+      "end2": {
+        "color": "#ffffff", "background":"#00000000",
+        "up": { "v": 0.75, "h": 0.2 },
+        "down": { "v": 0.85, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":null,
+        "up": { "v": 0.15, "h": 0.95 },
+        "down": { "v": 0.2, "h": 0.3 }
+      }
+
+
+    },
+    "layout_tablet": {
+
+      "text_azkar": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.25, "h": 0.9 },
+        "down": { "v": 0.3, "h": 0.1 }
+      },
+      "topic": {
+        "color": "#305CDE",
+        "up": { "v": 0.14, "h": 0.65 },
+        "down": { "v": 0.45, "h": 0.35 }
+      },
+
+      "end": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "end2": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      }
+    }
+  },
+  {
+    "id": "night_60",
+    "title": "night_60",
+    "video_mode": "fill",
+    "ms_after_finish": 0,
+    "layout_mobile": {
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":"",
+
+        "up": { "v": 0.05, "h": 0.01 },
+        "down": { "v": 0.32, "h": 0.01 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.05,"h":0.95},
+        "down":{"v":0.2,"h":0.75}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"",
+        "up": { "v": 0.3, "h": 0.7 },
+        "down": { "v": 0.5, "h": 0.3 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#00000000",
+        "up": { "v": 0.56, "h": 0.4 },
+        "down": { "v": 0.7, "h": 0.05 }
+      },
+      "end2": {
+        "color": "#ffffff", "background":"#00000000",
+        "up": { "v": 0.75, "h": 0.4 },
+        "down": { "v": 0.85, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":null,
+        "up": { "v": 0.15, "h": 0.95 },
+        "down": { "v": 0.2, "h": 0.3 }
+      }
+
+
+    },
+    "layout_tablet": {
+
+      "text_azkar": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.25, "h": 0.9 },
+        "down": { "v": 0.3, "h": 0.1 }
+      },
+      "topic": {
+        "color": "#305CDE",
+        "up": { "v": 0.14, "h": 0.65 },
+        "down": { "v": 0.45, "h": 0.35 }
+      },
+
+      "end": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "end2": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      }
+    }
+  },
+  {
+    "id": "night_70",
+    "title": "night_70",
+    "video_mode": "fill",
+    "ms_after_finish": 0,
+    "layout_mobile": {
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":"",
+
+        "up": { "v": 0.05, "h": 0.01 },
+        "down": { "v": 0.32, "h": 0.01 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.05,"h":0.95},
+        "down":{"v":0.2,"h":0.75}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"",
+        "up": { "v": 0.3, "h": 0.7 },
+        "down": { "v": 0.5, "h": 0.3 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#00000000",
+        "up": { "v": 0.45, "h": 0.25 },
+        "down": { "v": 0.6, "h": 0.05 }
+      },
+      "end2": {
+        "color": "#ffffff", "background":"#00000000",
+        "up": { "v": 0.6, "h": 0.3 },
+        "down": { "v": 0.7, "h": 0.01 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":null,
+        "up": { "v": 0.15, "h": 0.95 },
+        "down": { "v": 0.2, "h": 0.3 }
+      }
+
+
+    },
+    "layout_tablet": {
+
+      "text_azkar": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.25, "h": 0.9 },
+        "down": { "v": 0.3, "h": 0.1 }
+      },
+      "topic": {
+        "color": "#305CDE",
+        "up": { "v": 0.14, "h": 0.65 },
+        "down": { "v": 0.45, "h": 0.35 }
+      },
+
+      "end": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "end2": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      }
+    }
+  },
+  {
+    "id": "night_80",
+    "title": "night_80",
+    "video_mode": "fill",
+    "ms_after_finish": 0,
+    "layout_mobile": {
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":"",
+
+        "up": { "v": 0.05, "h": 0.01 },
+        "down": { "v": 0.32, "h": 0.01 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.05,"h":0.95},
+        "down":{"v":0.2,"h":0.75}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#aa000000",
+        "up": { "v": 0.3, "h": 0.7 },
+        "down": { "v": 0.5, "h": 0.3 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#00000000",
+        "up": { "v": 0.56, "h": 0.2 },
+        "down": { "v": 0.7, "h": 0.05 }
+      },
+      "end2": {
+        "color": "#ffffff", "background":"#00000000",
+        "up": { "v": 0.75, "h": 0.2 },
+        "down": { "v": 0.85, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":null,
+        "up": { "v": 0.15, "h": 0.95 },
+        "down": { "v": 0.2, "h": 0.3 }
+      }
+
+
+    },
+    "layout_tablet": {
+
+      "text_azkar": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.25, "h": 0.9 },
+        "down": { "v": 0.3, "h": 0.1 }
+      },
+      "topic": {
+        "color": "#305CDE",
+        "up": { "v": 0.14, "h": 0.65 },
+        "down": { "v": 0.45, "h": 0.35 }
+      },
+
+      "end": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "end2": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      }
+    }
+  },
+
+
+  {
+    "id": "all_100",
+    "title": "green",
+    "video_mode": "fill",
+    "ms_after_finish": 0,
+    "layout_mobile": {
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":"",
+
+        "up": { "v": 0.05, "h": 0.01 },
+        "down": { "v": 0.32, "h": 0.01 }
+      },
+
+      "text_azkar": {
+        "color": "#FFFFFF",
+        "background":"#00000000",
+        "up": { "v": 0.02, "h": 0.96 },
+        "down": { "v": 0.4, "h": 0.5 }
+      },
+      "topic":{
+        "color":"#FFFFFF",
+        "background":"",
+        "up":{"v":0.3,"h":0.4},
+        "down":{"v":0.6,"h":0.06}
+      },
+      "end": {
+        "color": "#FFFFFF",
+        "background":"#00000000",
+        "up": { "v": 0.5, "h": 0.99 },
+        "down": { "v": 0.65, "h": 0.5 }
+      },
+      "end2": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.7, "h": 0.4 },
+        "down": { "v": 0.65, "h": 0.4 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":null,
+        "up": { "v": 0.15, "h": 0.95 },
+        "down": { "v": 0.2, "h": 0.3 }
+      }
+
+
+    },
+
+    "layout_tablet": {
+
+      "text_azkar": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.25, "h": 0.9 },
+        "down": { "v": 0.3, "h": 0.1 }
+      },
+      "topic": {
+        "color": "#305CDE",
+        "up": { "v": 0.14, "h": 0.65 },
+        "down": { "v": 0.45, "h": 0.35 }
+      },
+
+      "end": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "end2": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      }
+    }
+  },
+
+  {
+    "id": "all_110",
+    "title": "blue",
+    "video_mode": "fill",
+    "ms_after_finish": 0,
+    "layout_mobile": {
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":"",
+
+        "up": { "v": 0.05, "h": 0.45 },
+        "down": { "v": 0.32, "h": 0.01 }
+      },
+
+      "text_azkar": {
+        "color": "#FFFFFF",
+        "background":"#00000000",
+        "up": { "v": 0.25, "h": 0.8 },
+        "down": { "v": 0.45, "h": 0.2 }
+      },
+      "topic":{
+        "color":"#FFFFFF",
+        "background":"",
+        "up":{"v":0.04,"h":0.8},
+        "down":{"v":0.2,"h":0.6}
+      },
+      "end": {
+        "color": "#FFFFFF",
+        "background":"#00000000",
+        "up": { "v": 0.5, "h": 0.2 },
+        "down": { "v": 0.63, "h": 0.03 }
+      },
+      "end2": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.5, "h": 0.97 },
+        "down": { "v": 0.63, "h": 0.6 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":null,
+        "up": { "v": 0.15, "h": 0.95 },
+        "down": { "v": 0.2, "h": 0.3 }
+      }
+
+
+    },
+
+    "layout_tablet": {
+
+      "text_azkar": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.25, "h": 0.9 },
+        "down": { "v": 0.3, "h": 0.1 }
+      },
+      "topic": {
+        "color": "#305CDE",
+        "up": { "v": 0.14, "h": 0.65 },
+        "down": { "v": 0.45, "h": 0.35 }
+      },
+
+      "end": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "end2": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      }
+    }
+  },
+
+  {
+    "id": "all_120",
+    "title": "white",
+    "video_mode": "fill",
+    "ms_after_finish": 0,
+    "layout_mobile": {
+
+      "app_name": {
+        "color": "#000000",
+        "background":"",
+
+        "up": { "v": 0.05, "h": 0.01 },
+        "down": { "v": 0.32, "h": 0.01 }
+      },
+
+      "text_azkar": {
+        "color": "#000000",
+        "background":"#00000000",
+        "up": { "v": 0.25, "h": 0.75 },
+        "down": { "v": 0.5, "h": 0.3 }
+      },
+      "topic":{
+        "color":"#FFFFFF",
+        "background":"",
+        "up":{"v":0.04,"h":0.95},
+        "down":{"v":0.2,"h":0.75}
+      },
+      "end": {
+        "color": "#000000",
+        "background":"#00000000",
+        "up": { "v": 0.6, "h": 0.45 },
+        "down": { "v": 0.75, "h": 0.35 }
+      },
+      "end2": {
+        "color": "#000000",
+        "up": { "v": 0.6, "h": 0.8 },
+        "down": { "v": 0.75, "h": 0.5 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":null,
+        "up": { "v": 0.15, "h": 0.95 },
+        "down": { "v": 0.2, "h": 0.3 }
+      }
+
+
+    },
+
+    "layout_tablet": {
+
+      "text_azkar": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.25, "h": 0.9 },
+        "down": { "v": 0.3, "h": 0.1 }
+      },
+      "topic": {
+        "color": "#305CDE",
+        "up": { "v": 0.14, "h": 0.65 },
+        "down": { "v": 0.45, "h": 0.35 }
+      },
+
+      "end": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "end2": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      }
+    }
+  },
+  {
+    "id": "all_130",
+    "title": "white",
+    "video_mode": "fill",
+    "ms_after_finish": 0,
+    "layout_mobile": {
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":"",
+
+        "up": { "v": 0.05, "h": 0.01 },
+        "down": { "v": 0.32, "h": 0.01 }
+      },
+
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#00000000",
+        "up": { "v": 0.25, "h": 0.9 },
+        "down": { "v": 0.5, "h": 0.1 }
+      },
+      "topic":{
+        "color":"#FFFFFF",
+        "background":"",
+        "up":{"v":0.02,"h":0.85},
+        "down":{"v":0.2,"h":0.65}
+      },
+      "end": {
+        "color": "#000000",
+        "background":"#00000000",
+        "up": { "v": 0.5, "h": 0.25 },
+        "down": { "v": 0.85, "h": 0.01 }
+      },
+      "end2": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.6, "h": 0.8 },
+        "down": { "v": 0.75, "h": 0.5 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":null,
+        "up": { "v": 0.15, "h": 0.95 },
+        "down": { "v": 0.2, "h": 0.3 }
+      }
+
+
+    },
+
+    "layout_tablet": {
+
+      "text_azkar": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.25, "h": 0.9 },
+        "down": { "v": 0.3, "h": 0.1 }
+      },
+      "topic": {
+        "color": "#305CDE",
+        "up": { "v": 0.14, "h": 0.65 },
+        "down": { "v": 0.45, "h": 0.35 }
+      },
+
+      "end": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "end2": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      }
+    }
+  },
+
+  {
+    "id": "all_140",
+    "title": "orange",
+    "video_mode": "fill",
+    "ms_after_finish": 0,
+    "layout_mobile": {
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":"",
+
+        "up": { "v": 0.05, "h": 0.01 },
+        "down": { "v": 0.32, "h": 0.01 }
+      },
+      "topic":{
+        "color":"#FFFFFF",
+        "background":"",
+        "up":{"v":0.05,"h":0.99},
+        "down":{"v":0.2,"h":0.65}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#00000000",
+        "up": { "v": 0.2, "h": 0.9 },
+        "down": { "v": 0.5, "h": 0.1 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#00000000",
+        "up": { "v": 0.6, "h": 0.3 },
+        "down": { "v": 0.7, "h": 0.05 }
+      },
+      "end2": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.7, "h": 0.3 },
+        "down": { "v": 0.8, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":null,
+        "up": { "v": 0.15, "h": 0.95 },
+        "down": { "v": 0.2, "h": 0.3 }
+      }
+
+
+    },
+
+    "layout_tablet": {
+
+      "text_azkar": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.25, "h": 0.9 },
+        "down": { "v": 0.3, "h": 0.1 }
+      },
+      "topic": {
+        "color": "#305CDE",
+        "up": { "v": 0.14, "h": 0.65 },
+        "down": { "v": 0.45, "h": 0.35 }
+      },
+
+      "end": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "end2": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      }
+    }
+  },
+  {
+    "id": "all_150",
+    "title": "all_150",
+    "video_mode": "fill",
+    "ms_after_finish": 0,
+    "layout_mobile": {
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":"",
+
+        "up": { "v": 0.05, "h": 0.01 },
+        "down": { "v": 0.32, "h": 0.01 }
+      },
+      "topic":{
+        "color":"#FFFFFF",
+        "background":"",
+        "up":{"v":0.05,"h":0.99},
+        "down":{"v":0.2,"h":0.65}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#00000000",
+        "up": { "v": 0.2, "h": 0.95 },
+        "down": { "v": 0.5, "h": 0.45 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#00000000",
+        "up": { "v": 0.55, "h": 0.7 },
+        "down": { "v": 0.7, "h": 0.45 }
+      },
+      "end2": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.7, "h": 0.7 },
+        "down": { "v": 0.8, "h": 0.45 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":null,
+        "up": { "v": 0.15, "h": 0.95 },
+        "down": { "v": 0.2, "h": 0.3 }
+      }
+
+
+    },
+
+    "layout_tablet": {
+
+      "text_azkar": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.25, "h": 0.9 },
+        "down": { "v": 0.3, "h": 0.1 }
+      },
+      "topic": {
+        "color": "#305CDE",
+        "up": { "v": 0.14, "h": 0.65 },
+        "down": { "v": 0.45, "h": 0.35 }
+      },
+
+      "end": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "end2": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      }
+    }
+  },
+  {
+    "id": "all_160",
+    "title": "orange",
+    "video_mode": "fill",
+    "ms_after_finish": 0,
+    "layout_mobile": {
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":"",
+
+        "up": { "v": 0.05, "h": 0.01 },
+        "down": { "v": 0.32, "h": 0.01 }
+      },
+      "topic":{
+        "color":"#ff0000",
+        "background":"",
+        "up":{"v":0.05,"h":0.99},
+        "down":{"v":0.2,"h":0.8}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#00000000",
+        "up": { "v": 0.2, "h": 0.9 },
+        "down": { "v": 0.5, "h": 0.1 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#00000000",
+        "up": { "v": 0.5, "h": 0.3 },
+        "down": { "v": 0.7, "h": 0.05 }
+      },
+      "end2": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.72, "h": 0.3 },
+        "down": { "v": 0.82, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":null,
+        "up": { "v": 0.15, "h": 0.95 },
+        "down": { "v": 0.2, "h": 0.3 }
+      }
+
+
+    },
+
+    "layout_tablet": {
+
+      "text_azkar": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.25, "h": 0.9 },
+        "down": { "v": 0.3, "h": 0.1 }
+      },
+      "topic": {
+        "color": "#305CDE",
+        "up": { "v": 0.14, "h": 0.65 },
+        "down": { "v": 0.45, "h": 0.35 }
+      },
+
+      "end": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "end2": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      }
+    }
+  },
+
+
+
+  {
+    "id": "day_natural_1020",
+    "title": "day_natural_1020",
+    "video_mode": "fill",
+    "ms_after_finish": 0,
+    "layout_mobile": {
+
+      "app_name": {
+        "color": "#000000",
+        "background":"",
+
+        "up": { "v": 0.05, "h": 0.01 },
+        "down": { "v": 0.32, "h": 0.01 }
+      },
+      "topic":{
+        "color":"#000000",
+        "background":"",
+        "up":{"v":0.05,"h":0.95},
+        "down":{"v":0.2,"h":0.8}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#00000000",
+        "up": { "v": 0.3, "h": 0.95 },
+        "down": { "v": 0.7, "h": 0.1 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#00000000",
+        "up": { "v": 0.6, "h": 0.3 },
+        "down": { "v": 0.8, "h": 0.05 }
+      },
+      "end2": {
+        "color": "#ffffff",
+        "up": { "v": 0.85, "h": 0.3 },
+        "down": { "v": 0.95, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":null,
+        "up": { "v": 0.15, "h": 0.95 },
+        "down": { "v": 0.2, "h": 0.3 }
+      }
+
+
+    },
+
+    "layout_tablet": {
+
+      "text_azkar": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.25, "h": 0.9 },
+        "down": { "v": 0.3, "h": 0.1 }
+      },
+      "topic": {
+        "color": "#305CDE",
+        "up": { "v": 0.14, "h": 0.65 },
+        "down": { "v": 0.45, "h": 0.35 }
+      },
+
+      "end": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "end2": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      }
+    }
+  },
+  {
+    "id": "day_natural_1060",
+    "title": "day_natural_1060",
+    "video_mode": "fill",
+    "ms_after_finish": 0,
+    "layout_mobile": {
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":"",
+
+        "up": { "v": 0.05, "h": 0.01 },
+        "down": { "v": 0.32, "h": 0.01 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.05,"h":0.95},
+        "down":{"v":0.2,"h":0.8}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.4, "h": 0.7 },
+        "down": { "v": 0.6, "h": 0.3 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#00000000",
+        "up": { "v": 0.6, "h": 0.3 },
+        "down": { "v": 0.8, "h": 0.05 }
+      },
+      "end2": {
+        "color": "#ffffff",
+        "up": { "v": 0.85, "h": 0.3 },
+        "down": { "v": 0.95, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":null,
+        "up": { "v": 0.15, "h": 0.95 },
+        "down": { "v": 0.2, "h": 0.3 }
+      }
+
+
+    },
+
+    "layout_tablet": {
+
+      "text_azkar": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.25, "h": 0.9 },
+        "down": { "v": 0.3, "h": 0.1 }
+      },
+      "topic": {
+        "color": "#305CDE",
+        "up": { "v": 0.14, "h": 0.65 },
+        "down": { "v": 0.45, "h": 0.35 }
+      },
+
+      "end": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "end2": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      }
+    }
+  },
+  {
+    "id": "day_natural_1080",
+    "title": "day_natural_1080",
+    "video_mode": "fill",
+    "ms_after_finish": 0,
+    "layout_mobile": {
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":"",
+
+        "up": { "v": 0.05, "h": 0.01 },
+        "down": { "v": 0.32, "h": 0.01 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.05,"h":0.95},
+        "down":{"v":0.2,"h":0.8}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.4, "h": 0.7 },
+        "down": { "v": 0.6, "h": 0.3 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#00000000",
+        "up": { "v": 0.6, "h": 0.3 },
+        "down": { "v": 0.8, "h": 0.05 }
+      },
+      "end2": {
+        "color": "#ffffff",
+        "up": { "v": 0.85, "h": 0.3 },
+        "down": { "v": 0.95, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":null,
+        "up": { "v": 0.15, "h": 0.95 },
+        "down": { "v": 0.2, "h": 0.3 }
+      }
+
+
+    },
+
+    "layout_tablet": {
+
+      "text_azkar": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.25, "h": 0.9 },
+        "down": { "v": 0.3, "h": 0.1 }
+      },
+      "topic": {
+        "color": "#305CDE",
+        "up": { "v": 0.14, "h": 0.65 },
+        "down": { "v": 0.45, "h": 0.35 }
+      },
+
+      "end": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "end2": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      }
+    }
+  },
+  {
+    "id": "day_natural_1090",
+    "title": "day_natural_1090",
+    "video_mode": "fill",
+    "ms_after_finish": 0,
+    "layout_mobile": {
+
+      "app_name": {
+        "color": "#000000",
+        "background":"",
+
+        "up": { "v": 0.05, "h": 0.01 },
+        "down": { "v": 0.32, "h": 0.01 }
+      },
+      "topic":{
+        "color":"#000000",
+        "background":"",
+        "up":{"v":0.05,"h":0.95},
+        "down":{"v":0.2,"h":0.75}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#A0000000",
+        "up": { "v": 0.3, "h": 0.7 },
+        "down": { "v": 0.5, "h": 0.3 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#A0000000",
+        "up": { "v": 0.56, "h": 0.2 },
+        "down": { "v": 0.7, "h": 0.05 }
+      },
+      "end2": {
+        "color": "#ffffff", "background":"#A0000000",
+        "up": { "v": 0.75, "h": 0.2 },
+        "down": { "v": 0.85, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":null,
+        "up": { "v": 0.15, "h": 0.95 },
+        "down": { "v": 0.2, "h": 0.3 }
+      }
+
+
+    },
+
+    "layout_tablet": {
+
+      "text_azkar": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.25, "h": 0.9 },
+        "down": { "v": 0.3, "h": 0.1 }
+      },
+      "topic": {
+        "color": "#305CDE",
+        "up": { "v": 0.14, "h": 0.65 },
+        "down": { "v": 0.45, "h": 0.35 }
+      },
+
+      "end": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "end2": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      }
+    }
+  },
+  {
+    "id": "day_natural_1091",
+    "title": "day_natural_1091",
+    "video_mode": "fill",
+    "ms_after_finish": 0,
+    "layout_mobile": {
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":"",
+
+        "up": { "v": 0.05, "h": 0.01 },
+        "down": { "v": 0.32, "h": 0.01 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.05,"h":0.95},
+        "down":{"v":0.2,"h":0.75}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#A0000000",
+        "up": { "v": 0.3, "h": 0.7 },
+        "down": { "v": 0.5, "h": 0.3 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#A0000000",
+        "up": { "v": 0.56, "h": 0.2 },
+        "down": { "v": 0.7, "h": 0.05 }
+      },
+      "end2": {
+        "color": "#ffffff", "background":"#A0000000",
+        "up": { "v": 0.75, "h": 0.2 },
+        "down": { "v": 0.85, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":null,
+        "up": { "v": 0.15, "h": 0.95 },
+        "down": { "v": 0.2, "h": 0.3 }
+      }
+
+
+    },
+    "layout_tablet": {
+
+      "text_azkar": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.25, "h": 0.9 },
+        "down": { "v": 0.3, "h": 0.1 }
+      },
+      "topic": {
+        "color": "#305CDE",
+        "up": { "v": 0.14, "h": 0.65 },
+        "down": { "v": 0.45, "h": 0.35 }
+      },
+
+      "end": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "end2": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      }
+    }
+  },
+  {
+    "id": "day_natural_1092",
+    "title": "day_natural_1092",
+    "video_mode": "fill",
+    "ms_after_finish": 0,
+    "layout_mobile": {
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":"",
+
+        "up": { "v": 0.05, "h": 0.01 },
+        "down": { "v": 0.32, "h": 0.01 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.05,"h":0.95},
+        "down":{"v":0.2,"h":0.75}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#A0000000",
+        "up": { "v": 0.3, "h": 0.7 },
+        "down": { "v": 0.5, "h": 0.3 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#A0000000",
+        "up": { "v": 0.56, "h": 0.2 },
+        "down": { "v": 0.7, "h": 0.05 }
+      },
+      "end2": {
+        "color": "#ffffff", "background":"#A0000000",
+        "up": { "v": 0.75, "h": 0.2 },
+        "down": { "v": 0.85, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":null,
+        "up": { "v": 0.15, "h": 0.95 },
+        "down": { "v": 0.2, "h": 0.3 }
+      }
+
+
+    },
+    "layout_tablet": {
+
+      "text_azkar": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.25, "h": 0.9 },
+        "down": { "v": 0.3, "h": 0.1 }
+      },
+      "topic": {
+        "color": "#305CDE",
+        "up": { "v": 0.14, "h": 0.65 },
+        "down": { "v": 0.45, "h": 0.35 }
+      },
+
+      "end": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "end2": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      }
+    }
+  },
+  {
+    "id": "day_natural_1093",
+    "title": "day_natural_1093",
+    "video_mode": "fill",
+    "ms_after_finish": 0,
+    "layout_mobile": {
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":"",
+
+        "up": { "v": 0.05, "h": 0.01 },
+        "down": { "v": 0.32, "h": 0.01 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.05,"h":0.95},
+        "down":{"v":0.2,"h":0.75}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#00000000",
+        "up": { "v": 0.3, "h": 0.7 },
+        "down": { "v": 0.5, "h": 0.3 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#00000000",
+        "up": { "v": 0.56, "h": 0.2 },
+        "down": { "v": 0.7, "h": 0.05 }
+      },
+      "end2": {
+        "color": "#ffffff", "background":"#00000000",
+        "up": { "v": 0.75, "h": 0.2 },
+        "down": { "v": 0.85, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":null,
+        "up": { "v": 0.15, "h": 0.95 },
+        "down": { "v": 0.2, "h": 0.3 }
+      }
+
+
+    },
+    "layout_tablet": {
+
+      "text_azkar": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.25, "h": 0.9 },
+        "down": { "v": 0.3, "h": 0.1 }
+      },
+      "topic": {
+        "color": "#305CDE",
+        "up": { "v": 0.14, "h": 0.65 },
+        "down": { "v": 0.45, "h": 0.35 }
+      },
+
+      "end": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "end2": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      }
+    }
+  },
+  {
+    "id": "day_natural_2110",
+    "title": "day_natural_2110",
+    "video_mode": "fill",
+    "ms_after_finish": 0,
+    "layout_mobile": {
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":"",
+
+        "up": { "v": 0.05, "h": 0.01 },
+        "down": { "v": 0.32, "h": 0.01 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.05,"h":0.95},
+        "down":{"v":0.2,"h":0.75}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#A0000000",
+        "up": { "v": 0.3, "h": 0.7 },
+        "down": { "v": 0.5, "h": 0.3 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#A0000000",
+        "up": { "v": 0.56, "h": 0.2 },
+        "down": { "v": 0.7, "h": 0.05 }
+      },
+      "end2": {
+        "color": "#ffffff", "background":"#A0000000",
+        "up": { "v": 0.75, "h": 0.2 },
+        "down": { "v": 0.85, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":null,
+        "up": { "v": 0.15, "h": 0.95 },
+        "down": { "v": 0.2, "h": 0.3 }
+      }
+
+
+    },
+    "layout_tablet": {
+
+      "text_azkar": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.25, "h": 0.9 },
+        "down": { "v": 0.3, "h": 0.1 }
+      },
+      "topic": {
+        "color": "#305CDE",
+        "up": { "v": 0.14, "h": 0.65 },
+        "down": { "v": 0.45, "h": 0.35 }
+      },
+
+      "end": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "end2": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      }
+    }
+  },
+  {
+    "id": "day_natural_2120",
+    "title": "day_natural_2120",
+    "video_mode": "fill",
+    "ms_after_finish": 0,
+    "layout_mobile": {
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":"",
+
+        "up": { "v": 0.05, "h": 0.01 },
+        "down": { "v": 0.32, "h": 0.01 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.05,"h":0.95},
+        "down":{"v":0.2,"h":0.75}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#A0000000",
+        "up": { "v": 0.3, "h": 0.7 },
+        "down": { "v": 0.5, "h": 0.3 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#A0000000",
+        "up": { "v": 0.56, "h": 0.2 },
+        "down": { "v": 0.7, "h": 0.05 }
+      },
+      "end2": {
+        "color": "#ffffff", "background":"#A0000000",
+        "up": { "v": 0.75, "h": 0.2 },
+        "down": { "v": 0.85, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":null,
+        "up": { "v": 0.15, "h": 0.95 },
+        "down": { "v": 0.2, "h": 0.3 }
+      }
+
+
+    },
+    "layout_tablet": {
+
+      "text_azkar": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.25, "h": 0.9 },
+        "down": { "v": 0.3, "h": 0.1 }
+      },
+      "topic": {
+        "color": "#305CDE",
+        "up": { "v": 0.14, "h": 0.65 },
+        "down": { "v": 0.45, "h": 0.35 }
+      },
+
+      "end": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "end2": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      }
+    }
+  },
+  {
+    "id": "day_natural_2130",
+    "title": "day_natural_2130",
+    "video_mode": "fill",
+    "ms_after_finish": 0,
+    "layout_mobile": {
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":"",
+
+        "up": { "v": 0.05, "h": 0.01 },
+        "down": { "v": 0.32, "h": 0.01 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.05,"h":0.95},
+        "down":{"v":0.2,"h":0.75}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#A0000000",
+        "up": { "v": 0.3, "h": 0.7 },
+        "down": { "v": 0.5, "h": 0.3 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#A0000000",
+        "up": { "v": 0.56, "h": 0.2 },
+        "down": { "v": 0.7, "h": 0.05 }
+      },
+      "end2": {
+        "color": "#ffffff", "background":"#A0000000",
+        "up": { "v": 0.75, "h": 0.2 },
+        "down": { "v": 0.85, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":null,
+        "up": { "v": 0.15, "h": 0.95 },
+        "down": { "v": 0.2, "h": 0.3 }
+      }
+
+
+    },
+    "layout_tablet": {
+
+      "text_azkar": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.25, "h": 0.9 },
+        "down": { "v": 0.3, "h": 0.1 }
+      },
+      "topic": {
+        "color": "#305CDE",
+        "up": { "v": 0.14, "h": 0.65 },
+        "down": { "v": 0.45, "h": 0.35 }
+      },
+
+      "end": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "end2": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      }
+    }
+  },
+
+
+  {
+    "id": "mosque_20",
+    "title": "mosque_20",
+    "video_mode": "fill",
+    "ms_after_finish": 0,
+    "layout_mobile": {
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":"",
+
+        "up": { "v": 0.03, "h": 0.01 },
+        "down": { "v": 0.32, "h": 0.01 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.05,"h":0.95},
+        "down":{"v":0.2,"h":0.75}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#A0000000",
+        "up": { "v": 0.3, "h": 0.7 },
+        "down": { "v": 0.5, "h": 0.3 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#A0000000",
+        "up": { "v": 0.56, "h": 0.2 },
+        "down": { "v": 0.7, "h": 0.05 }
+      },
+      "end2": {
+        "color": "#ffffff", "background":"#A0000000",
+        "up": { "v": 0.75, "h": 0.2 },
+        "down": { "v": 0.85, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":null,
+        "up": { "v": 0.15, "h": 0.95 },
+        "down": { "v": 0.2, "h": 0.3 }
+      }
+
+
+    },
+    "layout_tablet": {
+
+      "text_azkar": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.25, "h": 0.9 },
+        "down": { "v": 0.3, "h": 0.1 }
+      },
+      "topic": {
+        "color": "#305CDE",
+        "up": { "v": 0.14, "h": 0.65 },
+        "down": { "v": 0.45, "h": 0.35 }
+      },
+
+      "end": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "end2": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      }
+    }
+  },
+  {
+    "id": "mosque_40",
+    "title": "mosque_40",
+    "video_mode": "fill",
+    "ms_after_finish": 0,
+    "layout_mobile": {
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":"",
+
+        "up": { "v": 0.05, "h": 0.01 },
+        "down": { "v": 0.32, "h": 0.01 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.05,"h":0.95},
+        "down":{"v":0.2,"h":0.75}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#A0000000",
+        "up": { "v": 0.3, "h": 0.7 },
+        "down": { "v": 0.5, "h": 0.3 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#A0000000",
+        "up": { "v": 0.56, "h": 0.2 },
+        "down": { "v": 0.7, "h": 0.05 }
+      },
+      "end2": {
+        "color": "#ffffff", "background":"#A0000000",
+        "up": { "v": 0.75, "h": 0.2 },
+        "down": { "v": 0.85, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":null,
+        "up": { "v": 0.15, "h": 0.95 },
+        "down": { "v": 0.2, "h": 0.3 }
+      }
+
+
+    },
+    "layout_tablet": {
+
+      "text_azkar": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.25, "h": 0.9 },
+        "down": { "v": 0.3, "h": 0.1 }
+      },
+      "topic": {
+        "color": "#305CDE",
+        "up": { "v": 0.14, "h": 0.65 },
+        "down": { "v": 0.45, "h": 0.35 }
+      },
+
+      "end": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "end2": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      }
+    }
+  },
+  {
+    "id": "mosque_60",
+    "title": "mosque_60",
+    "video_mode": "fill",
+    "ms_after_finish": 0,
+    "layout_mobile": {
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":"",
+
+        "up": { "v": 0.05, "h": 0.01 },
+        "down": { "v": 0.32, "h": 0.01 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.05,"h":0.95},
+        "down":{"v":0.2,"h":0.75}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#A0000000",
+        "up": { "v": 0.3, "h": 0.7 },
+        "down": { "v": 0.5, "h": 0.3 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#A0000000",
+        "up": { "v": 0.56, "h": 0.2 },
+        "down": { "v": 0.7, "h": 0.05 }
+      },
+      "end2": {
+        "color": "#ffffff", "background":"#A0000000",
+        "up": { "v": 0.75, "h": 0.2 },
+        "down": { "v": 0.85, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":null,
+        "up": { "v": 0.15, "h": 0.95 },
+        "down": { "v": 0.2, "h": 0.3 }
+      }
+
+
+    },
+    "layout_tablet": {
+
+      "text_azkar": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.25, "h": 0.9 },
+        "down": { "v": 0.3, "h": 0.1 }
+      },
+      "topic": {
+        "color": "#305CDE",
+        "up": { "v": 0.14, "h": 0.65 },
+        "down": { "v": 0.45, "h": 0.35 }
+      },
+
+      "end": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "end2": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      }
+    }
+  },
+  {
+    "id": "mosque_80",
+    "title": "mosque_80",
+    "video_mode": "fill",
+    "ms_after_finish": 0,
+    "layout_mobile": {
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":"",
+
+        "up": { "v": 0.05, "h": 0.01 },
+        "down": { "v": 0.32, "h": 0.01 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.05,"h":0.95},
+        "down":{"v":0.2,"h":0.75}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#00000000",
+        "up": { "v": 0.3, "h": 0.7 },
+        "down": { "v": 0.5, "h": 0.3 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#00000000",
+        "up": { "v": 0.56, "h": 0.2 },
+        "down": { "v": 0.7, "h": 0.05 }
+      },
+      "end2": {
+        "color": "#ffffff", "background":"#00000000",
+        "up": { "v": 0.75, "h": 0.2 },
+        "down": { "v": 0.85, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":null,
+        "up": { "v": 0.15, "h": 0.95 },
+        "down": { "v": 0.2, "h": 0.3 }
+      }
+
+
+    },
+    "layout_tablet": {
+
+      "text_azkar": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.25, "h": 0.9 },
+        "down": { "v": 0.3, "h": 0.1 }
+      },
+      "topic": {
+        "color": "#305CDE",
+        "up": { "v": 0.14, "h": 0.65 },
+        "down": { "v": 0.45, "h": 0.35 }
+      },
+
+      "end": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "end2": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      }
+    }
+  },
+  {
+    "id": "mosque_90",
+    "title": "mosque_90",
+    "video_mode": "fill",
+    "ms_after_finish": 0,
+    "layout_mobile": {
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":"",
+
+        "up": { "v": 0.05, "h": 0.01 },
+        "down": { "v": 0.32, "h": 0.01 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.05,"h":0.95},
+        "down":{"v":0.2,"h":0.75}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.2, "h": 0.7 },
+        "down": { "v": 0.3, "h": 0.3 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.5, "h": 0.2 },
+        "down": { "v": 0.6, "h": 0.05 }
+      },
+      "end2": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.65, "h": 0.2 },
+        "down": { "v": 0.75, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":null,
+        "up": { "v": 0.15, "h": 0.95 },
+        "down": { "v": 0.2, "h": 0.3 }
+      }
+
+
+    },
+    "layout_tablet": {
+
+      "text_azkar": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.25, "h": 0.9 },
+        "down": { "v": 0.3, "h": 0.1 }
+      },
+      "topic": {
+        "color": "#305CDE",
+        "up": { "v": 0.14, "h": 0.65 },
+        "down": { "v": 0.45, "h": 0.35 }
+      },
+
+      "end": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "end2": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      }
+    }
+  },
+
+  {
+    "id": "quran_10",
+    "title": "quran_10",
+    "video_mode": "fill",
+    "ms_after_finish": 0,
+    "layout_mobile": {
+
+      "app_name": {
+        "color": "#ff000000",
+        "background":"",
+
+        "up": { "v": 0.05, "h": 0.01 },
+        "down": { "v": 0.3, "h": 0.01 }
+      },
+      "topic":{
+        "color":"#000000",
+        "background":"",
+        "up":{"v":0.05,"h":0.95},
+        "down":{"v":0.2,"h":0.75}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#aa000000",
+        "up": { "v": 0.3, "h": 0.7 },
+        "down": { "v": 0.5, "h": 0.3 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#00000000",
+        "up": { "v": 0.56, "h": 0.2 },
+        "down": { "v": 0.7, "h": 0.05 }
+      },
+      "end2": {
+        "color": "#ffffff", "background":"#00000000",
+        "up": { "v": 0.75, "h": 0.2 },
+        "down": { "v": 0.85, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":null,
+        "up": { "v": 0.15, "h": 0.95 },
+        "down": { "v": 0.2, "h": 0.3 }
+      }
+
+
+    },
+    "layout_tablet": {
+
+      "text_azkar": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.25, "h": 0.9 },
+        "down": { "v": 0.3, "h": 0.1 }
+      },
+      "topic": {
+        "color": "#305CDE",
+        "up": { "v": 0.14, "h": 0.65 },
+        "down": { "v": 0.45, "h": 0.35 }
+      },
+
+      "end": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "end2": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      }
+    }
+  },
+  {
+    "id": "quran_21",
+    "title": "quran_21",
+    "video_mode": "fill",
+    "ms_after_finish": 10000,
+    "layout_mobile": {
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":"",
+
+        "up": { "v": 0.03, "h": 0.01 },
+        "down": { "v": 0.35, "h": 0.01 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.05,"h":0.95},
+        "down":{"v":0.2,"h":0.75}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#00000000",
+        "up": { "v": 0.3, "h": 0.99 },
+        "down": { "v": 0.5, "h": 0.46 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#00000000",
+        "up": { "v": 0.6, "h": 0.99 },
+        "down": { "v": 0.7, "h": 0.7 }
+      },
+      "end2": {
+        "color": "#ffffff", "background":"#00000000",
+        "up": { "v": 0.75, "h": 0.99 },
+        "down": { "v": 0.85, "h": 0.7 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":null,
+        "up": { "v": 0.15, "h": 0.95 },
+        "down": { "v": 0.2, "h": 0.3 }
+      }
+
+
+    },
+    "layout_tablet": {
+
+      "text_azkar": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.25, "h": 0.9 },
+        "down": { "v": 0.3, "h": 0.1 }
+      },
+      "topic": {
+        "color": "#305CDE",
+        "up": { "v": 0.14, "h": 0.65 },
+        "down": { "v": 0.45, "h": 0.35 }
+      },
+
+      "end": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "end2": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      }
+    }
+  },
+  {
+    "id": "quran_30",
+    "title": "quran_30",
+    "video_mode": "fill",
+    "ms_after_finish": 0,
+    "layout_mobile": {
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":"",
+
+        "up": { "v": 0.05, "h": 0.01 },
+        "down": { "v": 0.32, "h": 0.01 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.05,"h":0.95},
+        "down":{"v":0.2,"h":0.75}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#00000000",
+        "up": { "v": 0.3, "h": 0.9 },
+        "down": { "v": 0.5, "h": 0.6 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#00000000",
+        "up": { "v": 0.56, "h": 0.9 },
+        "down": { "v": 0.7, "h": 0.7 }
+      },
+      "end2": {
+        "color": "#ffffff", "background":"#00000000",
+        "up": { "v": 0.75, "h": 0.9 },
+        "down": { "v": 0.85, "h": 0.7 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":null,
+        "up": { "v": 0.15, "h": 0.95 },
+        "down": { "v": 0.2, "h": 0.3 }
+      }
+
+
+    },
+    "layout_tablet": {
+
+      "text_azkar": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.25, "h": 0.9 },
+        "down": { "v": 0.3, "h": 0.1 }
+      },
+      "topic": {
+        "color": "#305CDE",
+        "up": { "v": 0.14, "h": 0.65 },
+        "down": { "v": 0.45, "h": 0.35 }
+      },
+
+      "end": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "end2": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      }
+    }
+  }
+]
