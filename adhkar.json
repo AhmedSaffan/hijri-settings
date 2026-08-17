@@ -1,7 +1,7 @@
 [
   {
     "id": 0,
-    "category": "ff  أذكار الصباح",
+    "category": "أذكار الصباح",
     "audio": "/audio/7500.mp3",
     "filename": "7500",
     "keywords": [ "morning","day_natural","all"],
@@ -9,9 +9,9 @@
       "name": "حمد الدريهم",
       "path": "hamed_elderahamy"}
     ],
-    "array": 
+    "array": [
       {
-        "id": 0, "text": "أذكار الصباح", "topic": "",
+        "id": 0, "text": "", "topic": "",
         "isheader": true, "end":"", "end2":"",
         "count": 1,"totalcount": 1,
         "audio": "/audio/7500.mp3",
@@ -223,7 +223,7 @@
     ],
     "array": [
       {
-        "id": 0, "text": "أذكار المساء", "topic": "",
+        "id": 0, "text": "", "topic": "",
         "isheader": true, "end":"", "end2":"",
         "count": 1,"totalcount": 1,
         "audio": "/audio/75002.mp3",
