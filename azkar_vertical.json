@@ -22,8 +22,8 @@
       "text_azkar": {
         "color": "#ffffff",
         "background":"#00000000",
-        "up": { "v": 0.2, "h": 0.99 },
-        "down": { "v": 0.3, "h": 0.4 }
+        "up": { "v": 0.20, "h": 0.99 },
+        "down": { "v": 0.30, "h": 0.4 }
       },
 
       "end": {
@@ -35,8 +35,8 @@
       "end2": {
         "color": "#ffffff",
         "background":"",
-        "up": { "v": 0.67, "h": 0.99 },
-        "down": { "v": 0.83, "h": 0.6 }
+        "up": { "v": 0.7, "h": 0.99 },
+        "down": { "v": 0.78, "h": 0.6 }
       },
       "image_reader": {
         "color": "#FFFFFF",
@@ -68,8 +68,8 @@
       },
       "end2": {
         "color": "#FFFFFF",
-        "up": { "v": 0.62, "h": 0.78 },
-        "down": { "v": 0.66, "h": 0.21 }
+        "up": { "v": 0.69, "h": 0.78 },
+        "down": { "v": 0.8, "h": 0.21 }
       },
       "image_reader": {
         "color": "#FFFFFF",
@@ -113,8 +113,8 @@
       "end2": {
         "color": "#ffffff",
         "background":"",
-        "up": { "v": 0.6, "h": 0.5 },
-        "down": { "v": 0.7, "h": 0.05 }
+        "up": { "v": 0.65, "h": 0.5 },
+        "down": { "v": 0.75, "h": 0.05 }
       },
       "image_reader": {
         "color": "#FFFFFF",
@@ -146,8 +146,8 @@
       },
       "end2": {
         "color": "#FFFFFF",
-        "up": { "v": 0.62, "h": 0.78 },
-        "down": { "v": 0.66, "h": 0.21 }
+        "up": { "v": 0.7, "h": 0.78 },
+        "down": { "v": 0.8, "h": 0.21 }
       },
       "image_reader": {
         "color": "#FFFFFF",
@@ -159,7 +159,7 @@
 
   {
     "id": "night_100",
-    "title": "night_100",
+    "title": "night_100_a",
     "video_mode": "fill",
     "ms_after_finish": 0,
     "layout_mobile": {
@@ -167,33 +167,33 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.03, "h": 0.01 },
+        "up": { "v": 0.05, "h": 0.01 },
         "down": { "v": 0.0, "h": 0.0 }
       },
       "topic":{
         "color":"#ffffff",
         "background":"",
-        "up":{"v":0.03,"h":0.99},
-        "down":{"v":0.1,"h":0.6}
+        "up":{"v":0.05,"h":0.99},
+        "down":{"v":0.15,"h":0.6}
       },
       "text_azkar": {
         "color": "#ffffff",
         "background":"#00000000",
-        "up": { "v": 0.4, "h": 0.95 },
-        "down": { "v": 0.5, "h": 0.05 }
+        "up": { "v": 0.25, "h": 0.95 },
+        "down": { "v": 0.35, "h": 0.05 }
       },
 
       "end": {
         "color": "#ffffff",
         "background":"",
-        "up": { "v": 0.6, "h": 0.5 },
-        "down": { "v": 0.7, "h": 0.05 }
+        "up": { "v": 0.5, "h": 0.5 },
+        "down": { "v": 0.6, "h": 0.05 }
       },
       "end2": {
         "color": "#ffffff",
         "background":"",
-        "up": { "v": 0.69, "h": 0.5 },
-        "down": { "v": 0.721, "h": 0.05 }
+        "up": { "v": 0.62, "h": 0.5 },
+        "down": { "v": 0.7, "h": 0.05 }
       },
       "image_reader": {
         "color": "#FFFFFF",
@@ -225,8 +225,8 @@
       },
       "end2": {
         "color": "#FFFFFF",
-        "up": { "v": 0.62, "h": 0.78 },
-        "down": { "v": 0.66, "h": 0.21 }
+        "up": { "v": 0.7, "h": 0.78 },
+        "down": { "v": 0.8, "h": 0.21 }
       },
       "image_reader": {
         "color": "#FFFFFF",
@@ -270,8 +270,8 @@
       "end2": {
         "color": "#ffffff",
         "background":"",
-        "up": { "v": 0.69, "h": 0.5 },
-        "down": { "v": 0.721, "h": 0.05 }
+        "up": { "v": 0.72, "h": 0.5 },
+        "down": { "v": 0.82, "h": 0.05 }
       },
       "image_reader": {
         "color": "#FFFFFF",
@@ -303,8 +303,8 @@
       },
       "end2": {
         "color": "#FFFFFF",
-        "up": { "v": 0.62, "h": 0.78 },
-        "down": { "v": 0.66, "h": 0.21 }
+        "up": { "v": 0.72, "h": 0.78 },
+        "down": { "v": 0.82, "h": 0.21 }
       },
       "image_reader": {
         "color": "#FFFFFF",
@@ -313,6 +313,449 @@
       }
     }
   },
+  {
+    "id": "night_121",
+    "title": "night_121",
+    "video_mode": "fill",
+    "ms_after_finish": 0,"speed": 1,
+    "layout_mobile": {
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":null,
+        "up": { "v": 0.04, "h": 0.009 },
+        "down": { "v": 0.0, "h": 0.0 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.03,"h":0.99},
+        "down":{"v":0.12,"h":0.5}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.3, "h": 0.95 },
+        "down": { "v": 0.4, "h": 0.05 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.5, "h": 0.4 },
+        "down": { "v": 0.6, "h": 0.1 }
+      },
+      "end2": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.62, "h": 0.5 },
+        "down": { "v": 0.67, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":"#AA000000",
+        "up": { "v": 0.65, "h": 0.5 },
+        "down": { "v": 0.7, "h": 0.05 }
+      }
+
+
+    },
+
+    "layout_tablet":  {
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":null,
+        "up": { "v": 0.04, "h": 0.009 },
+        "down": { "v": 0.0, "h": 0.0 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.03,"h":0.99},
+        "down":{"v":0.12,"h":0.5}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.3, "h": 0.95 },
+        "down": { "v": 0.4, "h": 0.05 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.5, "h": 0.4 },
+        "down": { "v": 0.6, "h": 0.1 }
+      },
+      "end2": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.62, "h": 0.5 },
+        "down": { "v": 0.67, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":"#AA000000",
+        "up": { "v": 0.65, "h": 0.5 },
+        "down": { "v": 0.7, "h": 0.05 }
+      }
+
+
+    }
+  },
+  {
+    "id": "night_122",
+    "title": "night_122",
+    "video_mode": "fill",
+    "ms_after_finish": 0,"speed": 1,
+    "layout_mobile":  {
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":null,
+        "up": { "v": 0.04, "h": 0.009 },
+        "down": { "v": 0.0, "h": 0.0 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.03,"h":0.99},
+        "down":{"v":0.12,"h":0.5}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.3, "h": 0.95 },
+        "down": { "v": 0.4, "h": 0.05 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.5, "h": 0.4 },
+        "down": { "v": 0.6, "h": 0.1 }
+      },
+      "end2": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.62, "h": 0.5 },
+        "down": { "v": 0.67, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":"#AA000000",
+        "up": { "v": 0.65, "h": 0.5 },
+        "down": { "v": 0.7, "h": 0.05 }
+      }
+
+
+    },
+
+    "layout_tablet":  {
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":null,
+        "up": { "v": 0.04, "h": 0.009 },
+        "down": { "v": 0.0, "h": 0.0 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.03,"h":0.99},
+        "down":{"v":0.12,"h":0.5}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.3, "h": 0.95 },
+        "down": { "v": 0.4, "h": 0.05 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.5, "h": 0.4 },
+        "down": { "v": 0.6, "h": 0.1 }
+      },
+      "end2": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.62, "h": 0.5 },
+        "down": { "v": 0.67, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":"#AA000000",
+        "up": { "v": 0.65, "h": 0.5 },
+        "down": { "v": 0.7, "h": 0.05 }
+      }
+
+
+    }
+  },
+  {
+    "id": "night_123",
+    "title": "night_123",
+    "video_mode": "fill",
+    "ms_after_finish": 0,"speed": 0.001,
+    "layout_mobile": {
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":null,
+        "up": { "v": 0.04, "h": 0.009 },
+        "down": { "v": 0.0, "h": 0.0 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.03,"h":0.99},
+        "down":{"v":0.12,"h":0.5}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#00000000",
+        "up": { "v": 0.3, "h": 0.95 },
+        "down": { "v": 0.4, "h": 0.05 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"",
+        "up": { "v": 0.6, "h": 0.5 },
+        "down": { "v": 0.7, "h": 0.05 }
+      },
+      "end2": {
+        "color": "#ffffff",
+        "background":"",
+        "up": { "v": 0.72, "h": 0.5 },
+        "down": { "v": 0.82, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":null,
+        "up": { "v": 0.65, "h": 0.5 },
+        "down": { "v": 0.75, "h": 0.05 }
+      }
+
+
+    },
+
+    "layout_tablet": {
+
+      "text_azkar": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.25, "h": 0.9 },
+        "down": { "v": 0.3, "h": 0.1 }
+      },
+      "topic": {
+        "color": "#305CDE",
+        "up": { "v": 0.14, "h": 0.65 },
+        "down": { "v": 0.45, "h": 0.35 }
+      },
+
+      "end": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      },
+      "end2": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.72, "h": 0.78 },
+        "down": { "v": 0.82, "h": 0.21 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "up": { "v": 0.62, "h": 0.78 },
+        "down": { "v": 0.66, "h": 0.21 }
+      }
+    }
+  },
+  {
+    "id": "night_124",
+    "title": "night_124",
+    "video_mode": "fill",
+    "ms_after_finish": 0,"speed": 1,
+    "layout_mobile":  {
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":null,
+        "up": { "v": 0.04, "h": 0.009 },
+        "down": { "v": 0.0, "h": 0.0 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.03,"h":0.99},
+        "down":{"v":0.12,"h":0.5}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#00000000",
+        "up": { "v": 0.3, "h": 0.95 },
+        "down": { "v": 0.4, "h": 0.05 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.5, "h": 0.4 },
+        "down": { "v": 0.6, "h": 0.1 }
+      },
+      "end2": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.62, "h": 0.5 },
+        "down": { "v": 0.67, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":"#AA000000",
+        "up": { "v": 0.65, "h": 0.5 },
+        "down": { "v": 0.7, "h": 0.05 }
+      }
+
+
+    },
+
+    "layout_tablet": {
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":null,
+        "up": { "v": 0.04, "h": 0.009 },
+        "down": { "v": 0.0, "h": 0.0 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.03,"h":0.99},
+        "down":{"v":0.12,"h":0.5}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#00000000",
+        "up": { "v": 0.3, "h": 0.95 },
+        "down": { "v": 0.4, "h": 0.05 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.5, "h": 0.4 },
+        "down": { "v": 0.6, "h": 0.1 }
+      },
+      "end2": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.62, "h": 0.5 },
+        "down": { "v": 0.67, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":"#AA000000",
+        "up": { "v": 0.65, "h": 0.5 },
+        "down": { "v": 0.7, "h": 0.05 }
+      }
+
+
+    }
+  },
+  {
+    "id": "night_125",
+    "title": "night_125",
+    "video_mode": "fill",
+    "ms_after_finish": 0,"speed": 1,
+    "layout_mobile": {
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":null,
+        "up": { "v": 0.04, "h": 0.009 },
+        "down": { "v": 0.0, "h": 0.0 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.03,"h":0.99},
+        "down":{"v":0.12,"h":0.5}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#00000000",
+        "up": { "v": 0.3, "h": 0.95 },
+        "down": { "v": 0.4, "h": 0.05 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.5, "h": 0.4 },
+        "down": { "v": 0.6, "h": 0.1 }
+      },
+      "end2": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.62, "h": 0.5 },
+        "down": { "v": 0.67, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":"#AA000000",
+        "up": { "v": 0.65, "h": 0.5 },
+        "down": { "v": 0.7, "h": 0.05 }
+      }
+
+
+    },
+
+    "layout_tablet":  {
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":null,
+        "up": { "v": 0.04, "h": 0.009 },
+        "down": { "v": 0.0, "h": 0.0 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.03,"h":0.99},
+        "down":{"v":0.12,"h":0.5}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#00000000",
+        "up": { "v": 0.3, "h": 0.95 },
+        "down": { "v": 0.4, "h": 0.05 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.5, "h": 0.4 },
+        "down": { "v": 0.6, "h": 0.1 }
+      },
+      "end2": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.62, "h": 0.5 },
+        "down": { "v": 0.67, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":"#AA000000",
+        "up": { "v": 0.65, "h": 0.5 },
+        "down": { "v": 0.7, "h": 0.05 }
+      }
+
+
+    }
+  },
+
 
   {
     "id": "mosque_200",
@@ -349,8 +792,8 @@
       "end2": {
         "color": "#ffffff",
         "background":"",
-        "up": { "v": 0.75, "h": 0.5 },
-        "down": { "v": 0.87, "h": 0.05 }
+        "up": { "v": 0.82, "h": 0.5 },
+        "down": { "v": 0.92, "h": 0.05 }
       },
       "image_reader": {
         "color": "#FFFFFF",
@@ -382,8 +825,8 @@
       },
       "end2": {
         "color": "#FFFFFF",
-        "up": { "v": 0.62, "h": 0.78 },
-        "down": { "v": 0.66, "h": 0.21 }
+        "up": { "v": 0.72, "h": 0.78 },
+        "down": { "v": 0.82, "h": 0.21 }
       },
       "image_reader": {
         "color": "#FFFFFF",
@@ -455,13 +898,13 @@
 
       "end": {
         "color": "#FFFFFF",
-        "up": { "v": 0.62, "h": 0.78 },
-        "down": { "v": 0.66, "h": 0.21 }
+        "up": { "v": 0.5, "h": 0.78 },
+        "down": { "v": 0.56, "h": 0.21 }
       },
       "end2": {
         "color": "#FFFFFF",
-        "up": { "v": 0.62, "h": 0.78 },
-        "down": { "v": 0.66, "h": 0.21 }
+        "up": { "v": 0.56, "h": 0.7 },
+        "down": { "v": 0.6, "h": 0.2 }
       },
       "image_reader": {
         "color": "#FFFFFF",
@@ -505,7 +948,7 @@
       "end2": {
         "color": "#ffffff",
         "background":"",
-        "up": { "v": 0.65, "h": 0.5 },
+        "up": { "v": 0.67, "h": 0.5 },
         "down": { "v": 0.75, "h": 0.05 }
       },
       "image_reader": {
@@ -538,8 +981,8 @@
       },
       "end2": {
         "color": "#FFFFFF",
-        "up": { "v": 0.62, "h": 0.78 },
-        "down": { "v": 0.66, "h": 0.21 }
+        "up": { "v": 0.7, "h": 0.78 },
+        "down": { "v": 0.8, "h": 0.21 }
       },
       "image_reader": {
         "color": "#FFFFFF",
@@ -611,13 +1054,13 @@
 
       "end": {
         "color": "#FFFFFF",
-        "up": { "v": 0.62, "h": 0.78 },
-        "down": { "v": 0.66, "h": 0.21 }
+        "up": { "v": 0.5, "h": 0.78 },
+        "down": { "v": 0.5, "h": 0.21 }
       },
       "end2": {
         "color": "#FFFFFF",
-        "up": { "v": 0.62, "h": 0.78 },
-        "down": { "v": 0.66, "h": 0.21 }
+        "up": { "v": 0.5, "h": 0.78 },
+        "down": { "v": 0.5, "h": 0.21 }
       },
       "image_reader": {
         "color": "#FFFFFF",
@@ -699,8 +1142,8 @@
       },
       "image_reader": {
         "color": "#FFFFFF",
-        "up": { "v": 0.62, "h": 0.78 },
-        "down": { "v": 0.66, "h": 0.21 }
+        "up": { "v": 0.67, "h": 0.78 },
+        "down": { "v": 0.76, "h": 0.21 }
       }
     }
   },
@@ -774,8 +1217,8 @@
       },
       "end2": {
         "color": "#FFFFFF",
-        "up": { "v": 0.62, "h": 0.78 },
-        "down": { "v": 0.66, "h": 0.21 }
+        "up": { "v": 0.7, "h": 0.78 },
+        "down": { "v": 0.76, "h": 0.21 }
       },
       "image_reader": {
         "color": "#FFFFFF",
@@ -808,7 +1251,7 @@
         "color": "#1C160F",
         "background": "#00000000",
         "up": { "v": 0.215, "h": 0.93 },
-        "down": { "v": 0.34, "h": 0.18 }
+        "down": { "v": 0.3, "h": 0.18 }
       },
       "end": {
         "color": "#3A2512",
@@ -851,8 +1294,8 @@
       "end2": {
         "color": "#332014",
         "background": null,
-        "up": { "v": 0.78, "h": 0.88 },
-        "down": { "v": 0.86, "h": 0.20 }
+        "up": { "v": 0.75, "h": 0.99 },
+        "down": { "v": 0.85, "h": 0.5 }
       },
       "image_reader": {
         "color": "#FFFFFF",
@@ -1367,8 +1810,8 @@
       "end2": {
         "color": "#ffffff",
         "background":"",
-        "up": { "v": 0.75, "h": 0.5 },
-        "down": { "v": 0.87, "h": 0.05 }
+        "up": { "v": 0.8, "h": 0.5 },
+        "down": { "v": 0.97, "h": 0.05 }
       },
       "image_reader": {
         "color": "#FFFFFF",
@@ -1486,6 +1929,97 @@
         "up": { "v": 0.62, "h": 0.78 },
         "down": { "v": 0.66, "h": 0.21 }
       }
+    }
+  },
+  {
+    "id": "day_natural_21",
+    "title": "day_natural_21",
+    "video_mode": "fill",
+    "ms_after_finish": 0,
+    "layout_mobile":{
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":null,
+        "up": { "v": 0.04, "h": 0.009 },
+        "down": { "v": 0.0, "h": 0.0 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.03,"h":0.99},
+        "down":{"v":0.12,"h":0.5}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.3, "h": 0.95 },
+        "down": { "v": 0.4, "h": 0.05 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.5, "h": 0.4 },
+        "down": { "v": 0.6, "h": 0.1 }
+      },
+      "end2": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.62, "h": 0.5 },
+        "down": { "v": 0.67, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":"#AA000000",
+        "up": { "v": 0.65, "h": 0.5 },
+        "down": { "v": 0.7, "h": 0.05 }
+      }
+
+
+    },
+
+    "layout_tablet": {
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":null,
+        "up": { "v": 0.04, "h": 0.009 },
+        "down": { "v": 0.0, "h": 0.0 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.03,"h":0.99},
+        "down":{"v":0.12,"h":0.5}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.3, "h": 0.95 },
+        "down": { "v": 0.4, "h": 0.05 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.5, "h": 0.4 },
+        "down": { "v": 0.6, "h": 0.1 }
+      },
+      "end2": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.62, "h": 0.5 },
+        "down": { "v": 0.67, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":"#AA000000",
+        "up": { "v": 0.65, "h": 0.5 },
+        "down": { "v": 0.7, "h": 0.05 }
+      }
+
+
     }
   },
   {
@@ -1722,6 +2256,555 @@
       }
     }
   },
+  {
+    "id": "day_natural_51",
+    "title": "day_natural_51",
+    "video_mode": "fill",
+    "ms_after_finish": 0,
+    "layout_mobile":{
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":null,
+        "up": { "v": 0.04, "h": 0.009 },
+        "down": { "v": 0.0, "h": 0.0 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.03,"h":0.99},
+        "down":{"v":0.12,"h":0.5}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.3, "h": 0.95 },
+        "down": { "v": 0.4, "h": 0.05 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.5, "h": 0.4 },
+        "down": { "v": 0.6, "h": 0.1 }
+      },
+      "end2": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.62, "h": 0.5 },
+        "down": { "v": 0.67, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":"#AA000000",
+        "up": { "v": 0.65, "h": 0.5 },
+        "down": { "v": 0.7, "h": 0.05 }
+      }
+
+
+    },
+
+    "layout_tablet": {
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":null,
+        "up": { "v": 0.04, "h": 0.009 },
+        "down": { "v": 0.0, "h": 0.0 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.03,"h":0.99},
+        "down":{"v":0.12,"h":0.5}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.3, "h": 0.95 },
+        "down": { "v": 0.4, "h": 0.05 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.5, "h": 0.4 },
+        "down": { "v": 0.6, "h": 0.1 }
+      },
+      "end2": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.62, "h": 0.5 },
+        "down": { "v": 0.67, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":"#AA000000",
+        "up": { "v": 0.65, "h": 0.5 },
+        "down": { "v": 0.7, "h": 0.05 }
+      }
+
+
+    }
+  },
+  {
+    "id": "day_natural_52",
+    "title": "day_natural_52",
+    "video_mode": "fill",
+    "ms_after_finish": 0,
+    "layout_mobile":{
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.04, "h": 0.009 },
+        "down": { "v": 0.0, "h": 0.0 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"#AA000000",
+        "up":{"v":0.03,"h":0.99},
+        "down":{"v":0.12,"h":0.5}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.3, "h": 0.95 },
+        "down": { "v": 0.4, "h": 0.05 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.5, "h": 0.4 },
+        "down": { "v": 0.6, "h": 0.1 }
+      },
+      "end2": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.62, "h": 0.5 },
+        "down": { "v": 0.67, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":"#AA000000",
+        "up": { "v": 0.65, "h": 0.5 },
+        "down": { "v": 0.7, "h": 0.05 }
+      }
+
+
+    },
+
+    "layout_tablet": {
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":null,
+        "up": { "v": 0.04, "h": 0.009 },
+        "down": { "v": 0.0, "h": 0.0 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.03,"h":0.99},
+        "down":{"v":0.12,"h":0.5}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.3, "h": 0.95 },
+        "down": { "v": 0.4, "h": 0.05 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.5, "h": 0.4 },
+        "down": { "v": 0.6, "h": 0.1 }
+      },
+      "end2": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.62, "h": 0.5 },
+        "down": { "v": 0.67, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":"#AA000000",
+        "up": { "v": 0.65, "h": 0.5 },
+        "down": { "v": 0.7, "h": 0.05 }
+      }
+
+
+    }
+  },
+  {
+    "id": "day_natural_53",
+    "title": "day_natural_53",
+    "video_mode": "fill",
+    "ms_after_finish": 0,
+    "layout_mobile":{
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":null,
+        "up": { "v": 0.04, "h": 0.009 },
+        "down": { "v": 0.0, "h": 0.0 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.03,"h":0.99},
+        "down":{"v":0.12,"h":0.5}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.3, "h": 0.95 },
+        "down": { "v": 0.4, "h": 0.05 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.5, "h": 0.4 },
+        "down": { "v": 0.6, "h": 0.1 }
+      },
+      "end2": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.62, "h": 0.5 },
+        "down": { "v": 0.67, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":"#AA000000",
+        "up": { "v": 0.65, "h": 0.5 },
+        "down": { "v": 0.7, "h": 0.05 }
+      }
+
+
+    },
+
+    "layout_tablet": {
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":null,
+        "up": { "v": 0.04, "h": 0.009 },
+        "down": { "v": 0.0, "h": 0.0 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.03,"h":0.99},
+        "down":{"v":0.12,"h":0.5}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.3, "h": 0.95 },
+        "down": { "v": 0.4, "h": 0.05 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.5, "h": 0.4 },
+        "down": { "v": 0.6, "h": 0.1 }
+      },
+      "end2": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.62, "h": 0.5 },
+        "down": { "v": 0.67, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":"#AA000000",
+        "up": { "v": 0.65, "h": 0.5 },
+        "down": { "v": 0.7, "h": 0.05 }
+      }
+
+
+    }
+  },
+  {
+    "id": "day_natural_54",
+    "title": "day_natural_54",
+    "video_mode": "fill",
+    "ms_after_finish": 0,
+    "layout_mobile":{
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":null,
+        "up": { "v": 0.04, "h": 0.009 },
+        "down": { "v": 0.0, "h": 0.0 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.03,"h":0.99},
+        "down":{"v":0.12,"h":0.5}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.3, "h": 0.95 },
+        "down": { "v": 0.4, "h": 0.05 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.5, "h": 0.4 },
+        "down": { "v": 0.6, "h": 0.1 }
+      },
+      "end2": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.62, "h": 0.5 },
+        "down": { "v": 0.67, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":"#AA000000",
+        "up": { "v": 0.65, "h": 0.5 },
+        "down": { "v": 0.7, "h": 0.05 }
+      }
+
+
+    },
+
+    "layout_tablet": {
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":null,
+        "up": { "v": 0.04, "h": 0.009 },
+        "down": { "v": 0.0, "h": 0.0 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.03,"h":0.99},
+        "down":{"v":0.12,"h":0.5}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.3, "h": 0.95 },
+        "down": { "v": 0.4, "h": 0.05 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.5, "h": 0.4 },
+        "down": { "v": 0.6, "h": 0.1 }
+      },
+      "end2": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.62, "h": 0.5 },
+        "down": { "v": 0.67, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":"#AA000000",
+        "up": { "v": 0.65, "h": 0.5 },
+        "down": { "v": 0.7, "h": 0.05 }
+      }
+
+
+    }
+  },
+  {
+    "id": "day_natural_55",
+    "title": "day_natural_55",
+    "video_mode": "fill",
+    "ms_after_finish": 0,
+    "layout_mobile":{
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":null,
+        "up": { "v": 0.04, "h": 0.009 },
+        "down": { "v": 0.0, "h": 0.0 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.03,"h":0.99},
+        "down":{"v":0.12,"h":0.5}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.3, "h": 0.95 },
+        "down": { "v": 0.4, "h": 0.05 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.5, "h": 0.4 },
+        "down": { "v": 0.6, "h": 0.1 }
+      },
+      "end2": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.62, "h": 0.5 },
+        "down": { "v": 0.67, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":"#AA000000",
+        "up": { "v": 0.65, "h": 0.5 },
+        "down": { "v": 0.7, "h": 0.05 }
+      }
+
+
+    },
+
+    "layout_tablet": {
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":null,
+        "up": { "v": 0.04, "h": 0.009 },
+        "down": { "v": 0.0, "h": 0.0 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.03,"h":0.99},
+        "down":{"v":0.12,"h":0.5}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.3, "h": 0.95 },
+        "down": { "v": 0.4, "h": 0.05 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.5, "h": 0.4 },
+        "down": { "v": 0.6, "h": 0.1 }
+      },
+      "end2": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.62, "h": 0.5 },
+        "down": { "v": 0.67, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":"#AA000000",
+        "up": { "v": 0.65, "h": 0.5 },
+        "down": { "v": 0.7, "h": 0.05 }
+      }
+
+
+    }
+  },
+  {
+    "id": "day_natural_56",
+    "title": "day_natural_56",
+    "video_mode": "fill",
+    "ms_after_finish": 0,
+    "layout_mobile":{
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":null,
+        "up": { "v": 0.04, "h": 0.009 },
+        "down": { "v": 0.0, "h": 0.0 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.03,"h":0.99},
+        "down":{"v":0.12,"h":0.5}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.3, "h": 0.95 },
+        "down": { "v": 0.4, "h": 0.05 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.5, "h": 0.4 },
+        "down": { "v": 0.6, "h": 0.1 }
+      },
+      "end2": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.62, "h": 0.5 },
+        "down": { "v": 0.67, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":"#AA000000",
+        "up": { "v": 0.65, "h": 0.5 },
+        "down": { "v": 0.7, "h": 0.05 }
+      }
+
+
+    },
+
+    "layout_tablet": {
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":null,
+        "up": { "v": 0.04, "h": 0.009 },
+        "down": { "v": 0.0, "h": 0.0 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.03,"h":0.99},
+        "down":{"v":0.12,"h":0.5}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.3, "h": 0.95 },
+        "down": { "v": 0.4, "h": 0.05 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.5, "h": 0.4 },
+        "down": { "v": 0.6, "h": 0.1 }
+      },
+      "end2": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.62, "h": 0.5 },
+        "down": { "v": 0.67, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":"#AA000000",
+        "up": { "v": 0.65, "h": 0.5 },
+        "down": { "v": 0.7, "h": 0.05 }
+      }
+
+
+    }
+  },
+
+
+
   {
     "id": "day_natural_60",
     "title": "day_natural_60",
@@ -2188,6 +3271,97 @@
         "up": { "v": 0.62, "h": 0.78 },
         "down": { "v": 0.66, "h": 0.21 }
       }
+    }
+  },
+  {
+    "id": "day_natural_111",
+    "title": "day_natural_111",
+    "video_mode": "fill",
+    "ms_after_finish": 0,
+    "layout_mobile":{
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":null,
+        "up": { "v": 0.04, "h": 0.009 },
+        "down": { "v": 0.0, "h": 0.0 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.03,"h":0.99},
+        "down":{"v":0.12,"h":0.5}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.3, "h": 0.95 },
+        "down": { "v": 0.4, "h": 0.05 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.5, "h": 0.4 },
+        "down": { "v": 0.6, "h": 0.1 }
+      },
+      "end2": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.62, "h": 0.5 },
+        "down": { "v": 0.67, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":"#AA000000",
+        "up": { "v": 0.65, "h": 0.5 },
+        "down": { "v": 0.7, "h": 0.05 }
+      }
+
+
+    },
+
+    "layout_tablet": {
+
+      "app_name": {
+        "color": "#ffffff",
+        "background":null,
+        "up": { "v": 0.04, "h": 0.009 },
+        "down": { "v": 0.0, "h": 0.0 }
+      },
+      "topic":{
+        "color":"#ffffff",
+        "background":"",
+        "up":{"v":0.03,"h":0.99},
+        "down":{"v":0.12,"h":0.5}
+      },
+      "text_azkar": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.3, "h": 0.95 },
+        "down": { "v": 0.4, "h": 0.05 }
+      },
+
+      "end": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.5, "h": 0.4 },
+        "down": { "v": 0.6, "h": 0.1 }
+      },
+      "end2": {
+        "color": "#ffffff",
+        "background":"#AA000000",
+        "up": { "v": 0.62, "h": 0.5 },
+        "down": { "v": 0.67, "h": 0.05 }
+      },
+      "image_reader": {
+        "color": "#FFFFFF",
+        "background":"#AA000000",
+        "up": { "v": 0.65, "h": 0.5 },
+        "down": { "v": 0.7, "h": 0.05 }
+      }
+
+
     }
   }
 ]
