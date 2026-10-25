@@ -10,13 +10,13 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.01, "h": 0.01 },
+        "up": { "v": 0.07, "h": 0.01 },
         "down": { "v": 0.2, "h": 0.01 }
       },
       "topic":{
         "color":"#ffffff",
         "background":"",
-        "up":{"v":0.03,"h":0.99},
+         "up":{"v":0.055,"h":0.97},
         "down":{"v":0.1,"h":0.6}
       },
       "text_azkar": {
@@ -88,13 +88,13 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.03, "h": 0.01 },
+        "up": { "v": 0.07, "h": 0.01 },
         "down": { "v": 0.2, "h": 0.01 }
       },
       "topic":{
         "color":"#ffffff",
         "background":"",
-        "up":{"v":0.03,"h":0.99},
+         "up":{"v":0.055,"h":0.97},
         "down":{"v":0.1,"h":0.6}
       },
       "text_azkar": {
@@ -173,7 +173,7 @@
       "topic":{
         "color":"#ffffff",
         "background":"",
-        "up":{"v":0.05,"h":0.99},
+        "up":{"v":0.05,"h":0.97},
         "down":{"v":0.15,"h":0.6}
       },
       "text_azkar": {
@@ -245,13 +245,13 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.04, "h": 0.009 },
+        "up": { "v": 0.05, "h": 0.01 },
         "down": { "v": 0.0, "h": 0.0 }
       },
       "topic":{
         "color":"#ffffff",
         "background":"",
-        "up":{"v":0.03,"h":0.99},
+         "up":{"v":0.055,"h":0.97},
         "down":{"v":0.12,"h":0.5}
       },
       "text_azkar": {
@@ -323,13 +323,13 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.04, "h": 0.009 },
+        "up": { "v": 0.05, "h": 0.01 },
         "down": { "v": 0.0, "h": 0.0 }
       },
       "topic":{
         "color":"#ffffff",
         "background":"",
-        "up":{"v":0.03,"h":0.99},
+         "up":{"v":0.055,"h":0.97},
         "down":{"v":0.12,"h":0.5}
       },
       "text_azkar": {
@@ -366,13 +366,13 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.04, "h": 0.009 },
+        "up": { "v": 0.05, "h": 0.01 },
         "down": { "v": 0.0, "h": 0.0 }
       },
       "topic":{
         "color":"#ffffff",
         "background":"",
-        "up":{"v":0.03,"h":0.99},
+         "up":{"v":0.055,"h":0.97},
         "down":{"v":0.12,"h":0.5}
       },
       "text_azkar": {
@@ -414,13 +414,13 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.04, "h": 0.009 },
+        "up": { "v": 0.05, "h": 0.01 },
         "down": { "v": 0.0, "h": 0.0 }
       },
       "topic":{
         "color":"#ffffff",
         "background":"",
-        "up":{"v":0.03,"h":0.99},
+         "up":{"v":0.055,"h":0.97},
         "down":{"v":0.12,"h":0.5}
       },
       "text_azkar": {
@@ -457,13 +457,13 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.04, "h": 0.009 },
+        "up": { "v": 0.05, "h": 0.01 },
         "down": { "v": 0.0, "h": 0.0 }
       },
       "topic":{
         "color":"#ffffff",
         "background":"",
-        "up":{"v":0.03,"h":0.99},
+         "up":{"v":0.055,"h":0.97},
         "down":{"v":0.12,"h":0.5}
       },
       "text_azkar": {
@@ -505,13 +505,13 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.04, "h": 0.009 },
+        "up": { "v": 0.05, "h": 0.01 },
         "down": { "v": 0.0, "h": 0.0 }
       },
       "topic":{
         "color":"#ffffff",
         "background":"",
-        "up":{"v":0.03,"h":0.99},
+         "up":{"v":0.055,"h":0.97},
         "down":{"v":0.12,"h":0.5}
       },
       "text_azkar": {
@@ -583,13 +583,13 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.04, "h": 0.009 },
+        "up": { "v": 0.05, "h": 0.01 },
         "down": { "v": 0.0, "h": 0.0 }
       },
       "topic":{
         "color":"#ffffff",
         "background":"",
-        "up":{"v":0.03,"h":0.99},
+         "up":{"v":0.055,"h":0.97},
         "down":{"v":0.12,"h":0.5}
       },
       "text_azkar": {
@@ -626,13 +626,13 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.04, "h": 0.009 },
+        "up": { "v": 0.05, "h": 0.01 },
         "down": { "v": 0.0, "h": 0.0 }
       },
       "topic":{
         "color":"#ffffff",
         "background":"",
-        "up":{"v":0.03,"h":0.99},
+         "up":{"v":0.055,"h":0.97},
         "down":{"v":0.12,"h":0.5}
       },
       "text_azkar": {
@@ -674,13 +674,13 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.04, "h": 0.009 },
+        "up": { "v": 0.05, "h": 0.01 },
         "down": { "v": 0.0, "h": 0.0 }
       },
       "topic":{
         "color":"#ffffff",
         "background":"",
-        "up":{"v":0.03,"h":0.99},
+         "up":{"v":0.055,"h":0.97},
         "down":{"v":0.12,"h":0.5}
       },
       "text_azkar": {
@@ -717,13 +717,13 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.04, "h": 0.009 },
+        "up": { "v": 0.05, "h": 0.01 },
         "down": { "v": 0.0, "h": 0.0 }
       },
       "topic":{
         "color":"#ffffff",
         "background":"",
-        "up":{"v":0.03,"h":0.99},
+         "up":{"v":0.055,"h":0.97},
         "down":{"v":0.12,"h":0.5}
       },
       "text_azkar": {
@@ -767,13 +767,13 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.03, "h": 0.01 },
-        "down": { "v": 0.2, "h": 0.01 }
+        "up": { "v": 0.05, "h": 0.03 },
+        "down": { "v": 0.25, "h": 0.01 }
       },
       "topic":{
         "color":"#ffffff",
         "background":"",
-        "up":{"v":0.03,"h":0.99},
+         "up":{"v":0.055,"h":0.97},
         "down":{"v":0.1,"h":0.6}
       },
       "text_azkar": {
@@ -845,13 +845,13 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.03, "h": 0.01 },
+        "up": { "v": 0.07, "h": 0.01 },
         "down": { "v": 0.2, "h": 0.01 }
       },
       "topic":{
         "color":"#ffffff",
         "background":"",
-        "up":{"v":0.03,"h":0.99},
+         "up":{"v":0.055,"h":0.97},
         "down":{"v":0.1,"h":0.6}
       },
       "text_azkar": {
@@ -923,13 +923,13 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.03, "h": 0.01 },
+        "up": { "v": 0.07, "h": 0.01 },
         "down": { "v": 0.2, "h": 0.01 }
       },
       "topic":{
         "color":"#ffffff",
         "background":"",
-        "up":{"v":0.03,"h":0.99},
+         "up":{"v":0.055,"h":0.97},
         "down":{"v":0.1,"h":0.6}
       },
       "text_azkar": {
@@ -1001,13 +1001,13 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.03, "h": 0.01 },
+        "up": { "v": 0.07, "h": 0.01 },
         "down": { "v": 0.2, "h": 0.01 }
       },
       "topic":{
         "color":"#ffffff",
         "background":"",
-        "up":{"v":0.03,"h":0.99},
+         "up":{"v":0.055,"h":0.97},
         "down":{"v":0.1,"h":0.6}
       },
       "text_azkar": {
@@ -1079,13 +1079,13 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.03, "h": 0.01 },
+        "up": { "v": 0.07, "h": 0.01 },
         "down": { "v": 0.2, "h": 0.01 }
       },
       "topic":{
         "color":"#ffffff",
         "background":"",
-        "up":{"v":0.03,"h":0.99},
+         "up":{"v":0.055,"h":0.97},
         "down":{"v":0.1,"h":0.6}
       },
       "text_azkar": {
@@ -1316,13 +1316,13 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.03, "h": 0.01 },
+        "up": { "v": 0.07, "h": 0.01 },
         "down": { "v": 0.2, "h": 0.01 }
       },
       "topic":{
         "color":"#ffffff",
         "background":"",
-        "up":{"v":0.03,"h":0.99},
+         "up":{"v":0.055,"h":0.97},
         "down":{"v":0.1,"h":0.6}
       },
       "text_azkar": {
@@ -1394,13 +1394,13 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.03, "h": 0.01 },
+        "up": { "v": 0.07, "h": 0.01 },
         "down": { "v": 0.2, "h": 0.01 }
       },
       "topic":{
         "color":"#ffffff",
         "background":"",
-        "up":{"v":0.03,"h":0.99},
+         "up":{"v":0.055,"h":0.97},
         "down":{"v":0.1,"h":0.6}
       },
       "text_azkar": {
@@ -1472,13 +1472,13 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.03, "h": 0.01 },
+        "up": { "v": 0.07, "h": 0.01 },
         "down": { "v": 0.2, "h": 0.01 }
       },
       "topic":{
         "color":"#ffffff",
         "background":"",
-        "up":{"v":0.03,"h":0.99},
+         "up":{"v":0.055,"h":0.97},
         "down":{"v":0.1,"h":0.6}
       },
       "text_azkar": {
@@ -1550,13 +1550,13 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.03, "h": 0.01 },
+        "up": { "v": 0.07, "h": 0.01 },
         "down": { "v": 0.2, "h": 0.01 }
       },
       "topic":{
         "color":"#ffffff",
         "background":"",
-        "up":{"v":0.03,"h":0.99},
+         "up":{"v":0.055,"h":0.97},
         "down":{"v":0.1,"h":0.6}
       },
       "text_azkar": {
@@ -1628,13 +1628,13 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.03, "h": 0.01 },
+        "up": { "v": 0.07, "h": 0.01 },
         "down": { "v": 0.2, "h": 0.01 }
       },
       "topic":{
         "color":"#ffffff",
         "background":"",
-        "up":{"v":0.03,"h":0.99},
+         "up":{"v":0.055,"h":0.97},
         "down":{"v":0.1,"h":0.6}
       },
       "text_azkar": {
@@ -1706,13 +1706,13 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.03, "h": 0.01 },
+        "up": { "v": 0.07, "h": 0.01 },
         "down": { "v": 0.2, "h": 0.01 }
       },
       "topic":{
         "color":"#ffffff",
         "background":"",
-        "up":{"v":0.03,"h":0.99},
+         "up":{"v":0.055,"h":0.97},
         "down":{"v":0.1,"h":0.6}
       },
       "text_azkar": {
@@ -1785,7 +1785,7 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.03, "h": 0.01 },
+        "up": { "v": 0.07, "h": 0.01 },
         "down": { "v": 0.2, "h": 0.01 }
       },
       "topic":{
@@ -1863,7 +1863,7 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.03, "h": 0.01 },
+        "up": { "v": 0.07, "h": 0.01 },
         "down": { "v": 0.2, "h": 0.01 }
       },
       "topic":{
@@ -1941,13 +1941,13 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.04, "h": 0.009 },
+        "up": { "v": 0.05, "h": 0.01 },
         "down": { "v": 0.0, "h": 0.0 }
       },
       "topic":{
         "color":"#ffffff",
         "background":"",
-        "up":{"v":0.03,"h":0.99},
+         "up":{"v":0.055,"h":0.97},
         "down":{"v":0.12,"h":0.5}
       },
       "text_azkar": {
@@ -1984,13 +1984,13 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.04, "h": 0.009 },
+        "up": { "v": 0.05, "h": 0.01 },
         "down": { "v": 0.0, "h": 0.0 }
       },
       "topic":{
         "color":"#ffffff",
         "background":"",
-        "up":{"v":0.03,"h":0.99},
+         "up":{"v":0.055,"h":0.97},
         "down":{"v":0.12,"h":0.5}
       },
       "text_azkar": {
@@ -2032,13 +2032,13 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.03, "h": 0.01 },
+        "up": { "v": 0.07, "h": 0.01 },
         "down": { "v": 0.2, "h": 0.01 }
       },
       "topic":{
         "color":"#ffffff",
         "background":"",
-        "up":{"v":0.03,"h":0.99},
+         "up":{"v":0.055,"h":0.97},
         "down":{"v":0.1,"h":0.6}
       },
       "text_azkar": {
@@ -2110,13 +2110,13 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.03, "h": 0.01 },
+        "up": { "v": 0.07, "h": 0.01 },
         "down": { "v": 0.2, "h": 0.01 }
       },
       "topic":{
         "color":"#ffffff",
         "background":"",
-        "up":{"v":0.03,"h":0.99},
+         "up":{"v":0.055,"h":0.97},
         "down":{"v":0.1,"h":0.6}
       },
       "text_azkar": {
@@ -2188,13 +2188,13 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.03, "h": 0.01 },
+        "up": { "v": 0.07, "h": 0.01 },
         "down": { "v": 0.2, "h": 0.01 }
       },
       "topic":{
         "color":"#ffffff",
         "background":"",
-        "up":{"v":0.03,"h":0.99},
+         "up":{"v":0.055,"h":0.97},
         "down":{"v":0.1,"h":0.6}
       },
       "text_azkar": {
@@ -2266,13 +2266,13 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.04, "h": 0.009 },
+        "up": { "v": 0.05, "h": 0.01 },
         "down": { "v": 0.0, "h": 0.0 }
       },
       "topic":{
         "color":"#ffffff",
         "background":"",
-        "up":{"v":0.03,"h":0.99},
+         "up":{"v":0.055,"h":0.97},
         "down":{"v":0.12,"h":0.5}
       },
       "text_azkar": {
@@ -2309,13 +2309,13 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.04, "h": 0.009 },
+        "up": { "v": 0.05, "h": 0.01 },
         "down": { "v": 0.0, "h": 0.0 }
       },
       "topic":{
         "color":"#ffffff",
         "background":"",
-        "up":{"v":0.03,"h":0.99},
+         "up":{"v":0.055,"h":0.97},
         "down":{"v":0.12,"h":0.5}
       },
       "text_azkar": {
@@ -2357,13 +2357,13 @@
       "app_name": {
         "color": "#ffffff",
         "background":"#AA000000",
-        "up": { "v": 0.04, "h": 0.009 },
+        "up": { "v": 0.05, "h": 0.01 },
         "down": { "v": 0.0, "h": 0.0 }
       },
       "topic":{
         "color":"#ffffff",
         "background":"#AA000000",
-        "up":{"v":0.03,"h":0.99},
+         "up":{"v":0.055,"h":0.97},
         "down":{"v":0.12,"h":0.5}
       },
       "text_azkar": {
@@ -2400,13 +2400,13 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.04, "h": 0.009 },
+        "up": { "v": 0.05, "h": 0.01 },
         "down": { "v": 0.0, "h": 0.0 }
       },
       "topic":{
         "color":"#ffffff",
         "background":"",
-        "up":{"v":0.03,"h":0.99},
+         "up":{"v":0.055,"h":0.97},
         "down":{"v":0.12,"h":0.5}
       },
       "text_azkar": {
@@ -2448,13 +2448,13 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.04, "h": 0.009 },
+        "up": { "v": 0.05, "h": 0.01 },
         "down": { "v": 0.0, "h": 0.0 }
       },
       "topic":{
         "color":"#ffffff",
         "background":"",
-        "up":{"v":0.03,"h":0.99},
+         "up":{"v":0.055,"h":0.97},
         "down":{"v":0.12,"h":0.5}
       },
       "text_azkar": {
@@ -2491,13 +2491,13 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.04, "h": 0.009 },
+        "up": { "v": 0.05, "h": 0.01 },
         "down": { "v": 0.0, "h": 0.0 }
       },
       "topic":{
         "color":"#ffffff",
         "background":"",
-        "up":{"v":0.03,"h":0.99},
+         "up":{"v":0.055,"h":0.97},
         "down":{"v":0.12,"h":0.5}
       },
       "text_azkar": {
@@ -2539,13 +2539,13 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.04, "h": 0.009 },
+        "up": { "v": 0.05, "h": 0.01 },
         "down": { "v": 0.0, "h": 0.0 }
       },
       "topic":{
         "color":"#ffffff",
         "background":"",
-        "up":{"v":0.03,"h":0.99},
+         "up":{"v":0.055,"h":0.97},
         "down":{"v":0.12,"h":0.5}
       },
       "text_azkar": {
@@ -2582,13 +2582,13 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.04, "h": 0.009 },
+        "up": { "v": 0.05, "h": 0.01 },
         "down": { "v": 0.0, "h": 0.0 }
       },
       "topic":{
         "color":"#ffffff",
         "background":"",
-        "up":{"v":0.03,"h":0.99},
+         "up":{"v":0.055,"h":0.97},
         "down":{"v":0.12,"h":0.5}
       },
       "text_azkar": {
@@ -2630,13 +2630,13 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.04, "h": 0.009 },
+        "up": { "v": 0.05, "h": 0.01 },
         "down": { "v": 0.0, "h": 0.0 }
       },
       "topic":{
         "color":"#ffffff",
         "background":"",
-        "up":{"v":0.03,"h":0.99},
+         "up":{"v":0.055,"h":0.97},
         "down":{"v":0.12,"h":0.5}
       },
       "text_azkar": {
@@ -2673,13 +2673,13 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.04, "h": 0.009 },
+        "up": { "v": 0.05, "h": 0.01 },
         "down": { "v": 0.0, "h": 0.0 }
       },
       "topic":{
         "color":"#ffffff",
         "background":"",
-        "up":{"v":0.03,"h":0.99},
+         "up":{"v":0.055,"h":0.97},
         "down":{"v":0.12,"h":0.5}
       },
       "text_azkar": {
@@ -2721,13 +2721,13 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.04, "h": 0.009 },
+        "up": { "v": 0.05, "h": 0.01 },
         "down": { "v": 0.0, "h": 0.0 }
       },
       "topic":{
         "color":"#ffffff",
         "background":"",
-        "up":{"v":0.03,"h":0.99},
+         "up":{"v":0.055,"h":0.97},
         "down":{"v":0.12,"h":0.5}
       },
       "text_azkar": {
@@ -2764,13 +2764,13 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.04, "h": 0.009 },
+        "up": { "v": 0.05, "h": 0.01 },
         "down": { "v": 0.0, "h": 0.0 }
       },
       "topic":{
         "color":"#ffffff",
         "background":"",
-        "up":{"v":0.03,"h":0.99},
+         "up":{"v":0.055,"h":0.97},
         "down":{"v":0.12,"h":0.5}
       },
       "text_azkar": {
@@ -2815,13 +2815,13 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.03, "h": 0.01 },
+        "up": { "v": 0.07, "h": 0.01 },
         "down": { "v": 0.2, "h": 0.01 }
       },
       "topic":{
         "color":"#ffffff",
         "background":"",
-        "up":{"v":0.03,"h":0.99},
+         "up":{"v":0.055,"h":0.97},
         "down":{"v":0.1,"h":0.6}
       },
       "text_azkar": {
@@ -2893,7 +2893,7 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.03, "h": 0.01 },
+        "up": { "v": 0.07, "h": 0.01 },
         "down": { "v": 0.2, "h": 0.01 }
       },
       "topic":{
@@ -2971,7 +2971,7 @@
       "app_name": {
         "color": "#ffffff",
         "background":"#00000000",
-        "up": { "v": 0.03, "h": 0.01 },
+        "up": { "v": 0.07, "h": 0.01 },
         "down": { "v": 0.18, "h": 0.01 }
       },
       "topic":{
@@ -3049,7 +3049,7 @@
       "app_name": {
         "color": "#ffffff",
         "background":"#00000000",
-        "up": { "v": 0.03, "h": 0.01 },
+        "up": { "v": 0.07, "h": 0.01 },
         "down": { "v": 0.18, "h": 0.01 }
       },
       "topic":{
@@ -3127,7 +3127,7 @@
       "app_name": {
         "color": "#ffffff",
         "background":"#00000000",
-        "up": { "v": 0.03, "h": 0.01 },
+        "up": { "v": 0.07, "h": 0.01 },
         "down": { "v": 0.18, "h": 0.01 }
       },
       "topic":{
@@ -3205,7 +3205,7 @@
       "app_name": {
         "color": "#ffffff",
         "background":"#00000000",
-        "up": { "v": 0.03, "h": 0.01 },
+        "up": { "v": 0.07, "h": 0.01 },
         "down": { "v": 0.18, "h": 0.01 }
       },
       "topic":{
@@ -3283,13 +3283,13 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.04, "h": 0.009 },
+        "up": { "v": 0.05, "h": 0.01 },
         "down": { "v": 0.0, "h": 0.0 }
       },
       "topic":{
         "color":"#ffffff",
         "background":"",
-        "up":{"v":0.03,"h":0.99},
+         "up":{"v":0.055,"h":0.97},
         "down":{"v":0.12,"h":0.5}
       },
       "text_azkar": {
@@ -3326,13 +3326,13 @@
       "app_name": {
         "color": "#ffffff",
         "background":null,
-        "up": { "v": 0.04, "h": 0.009 },
+        "up": { "v": 0.05, "h": 0.01 },
         "down": { "v": 0.0, "h": 0.0 }
       },
       "topic":{
         "color":"#ffffff",
         "background":"",
-        "up":{"v":0.03,"h":0.99},
+         "up":{"v":0.055,"h":0.97},
         "down":{"v":0.12,"h":0.5}
       },
       "text_azkar": {
